@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2025.1.26)  10 FEB 2025 21:02
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2025.1.26)  10 FEB 2025 23:52
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -220,126 +220,122 @@ File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
 
-Underfull \hbox (badness 1067) in paragraph at lines 18--20
-\OT1/cmr/m/n/10 had struck an ice-berg on its maiden voy-age from
- []
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 18--20
-
- []
-
-
-
-<C:/GitHub/DataScience/wk_03/plots/BoxPlotFareSurvived.png, id=1, 722.7pt x 505.89pt>
-File: C:/GitHub/DataScience/wk_03/plots/BoxPlotFareSurvived.png Graphic file (type png)
-<use C:/GitHub/DataScience/wk_03/plots/BoxPlotFareSurvived.png>
-Package pdftex.def Info: C:/GitHub/DataScience/wk_03/plots/BoxPlotFareSurvived.png  used on input line 79.
-(pdftex.def)             Requested size: 242.61894pt x 169.8312pt.
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-<C:/GitHub/DataScience/wk_03/plots/HeatMapSexSurvived.png, id=3, 462.528pt x 346.896pt>
-File: C:/GitHub/DataScience/wk_03/plots/HeatMapSexSurvived.png Graphic file (type png)
-<use C:/GitHub/DataScience/wk_03/plots/HeatMapSexSurvived.png>
-Package pdftex.def Info: C:/GitHub/DataScience/wk_03/plots/HeatMapSexSurvived.png  used on input line 91.
-(pdftex.def)             Requested size: 242.61894pt x 181.96432pt.
 
 
 [1{C:/Users/chowdhuryj/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}
 
 
 ]
+<C:/GitHub/DataScience/wk_03/plots/BoxPlotFareSurvived.png, id=11, 722.7pt x 505.89pt>
+File: C:/GitHub/DataScience/wk_03/plots/BoxPlotFareSurvived.png Graphic file (type png)
+<use C:/GitHub/DataScience/wk_03/plots/BoxPlotFareSurvived.png>
+Package pdftex.def Info: C:/GitHub/DataScience/wk_03/plots/BoxPlotFareSurvived.png  used on input line 88.
+(pdftex.def)             Requested size: 242.61894pt x 169.8312pt.
+<C:/GitHub/DataScience/wk_03/plots/HeatMapSexSurvived.png, id=13, 462.528pt x 346.896pt>
+File: C:/GitHub/DataScience/wk_03/plots/HeatMapSexSurvived.png Graphic file (type png)
+<use C:/GitHub/DataScience/wk_03/plots/HeatMapSexSurvived.png>
+Package pdftex.def Info: C:/GitHub/DataScience/wk_03/plots/HeatMapSexSurvived.png  used on input line 106.
+(pdftex.def)             Requested size: 242.61894pt x 181.96432pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+
 <C:/GitHub/DataScience/wk_03/plots/BoxPlotSibSpSurvived.png, id=14, 722.7pt x 505.89pt>
 File: C:/GitHub/DataScience/wk_03/plots/BoxPlotSibSpSurvived.png Graphic file (type png)
 <use C:/GitHub/DataScience/wk_03/plots/BoxPlotSibSpSurvived.png>
-Package pdftex.def Info: C:/GitHub/DataScience/wk_03/plots/BoxPlotSibSpSurvived.png  used on input line 103.
+Package pdftex.def Info: C:/GitHub/DataScience/wk_03/plots/BoxPlotSibSpSurvived.png  used on input line 124.
 (pdftex.def)             Requested size: 242.61894pt x 169.8312pt.
-
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
 <C:/GitHub/DataScience/wk_03/plots/BoxPlotParchSurvived.png, id=15, 722.7pt x 505.89pt>
 File: C:/GitHub/DataScience/wk_03/plots/BoxPlotParchSurvived.png Graphic file (type png)
 <use C:/GitHub/DataScience/wk_03/plots/BoxPlotParchSurvived.png>
-Package pdftex.def Info: C:/GitHub/DataScience/wk_03/plots/BoxPlotParchSurvived.png  used on input line 115.
+Package pdftex.def Info: C:/GitHub/DataScience/wk_03/plots/BoxPlotParchSurvived.png  used on input line 142.
 (pdftex.def)             Requested size: 242.61894pt x 169.8312pt.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-<C:/GitHub/DataScience/wk_03/plots/HeatMapEmbarkedSurvived.png, id=16, 462.528pt x 346.896pt>
+
+
+[2 <C:/GitHub/DataScience/wk_03/plots/BoxPlotFareSurvived.png> <C:/GitHub/DataScience/wk_03/plots/HeatMapSexSurvived.png> <C:/GitHub/DataScience/wk_03/plots/BoxPlotSibSpSurvived.png>]
+<C:/GitHub/DataScience/wk_03/plots/HeatMapEmbarkedSurvived.png, id=22, 462.528pt x 346.896pt>
 File: C:/GitHub/DataScience/wk_03/plots/HeatMapEmbarkedSurvived.png Graphic file (type png)
 <use C:/GitHub/DataScience/wk_03/plots/HeatMapEmbarkedSurvived.png>
-Package pdftex.def Info: C:/GitHub/DataScience/wk_03/plots/HeatMapEmbarkedSurvived.png  used on input line 126.
+Package pdftex.def Info: C:/GitHub/DataScience/wk_03/plots/HeatMapEmbarkedSurvived.png  used on input line 161.
 (pdftex.def)             Requested size: 242.61894pt x 181.96432pt.
-
-
-<C:/GitHub/DataScience/wk_03/plots/PClassVsSurvivedHeatMap.png, id=17, 462.528pt x 346.896pt>
+<C:/GitHub/DataScience/wk_03/plots/PClassVsSurvivedHeatMap.png, id=23, 462.528pt x 346.896pt>
 File: C:/GitHub/DataScience/wk_03/plots/PClassVsSurvivedHeatMap.png Graphic file (type png)
 <use C:/GitHub/DataScience/wk_03/plots/PClassVsSurvivedHeatMap.png>
-Package pdftex.def Info: C:/GitHub/DataScience/wk_03/plots/PClassVsSurvivedHeatMap.png  used on input line 137.
+Package pdftex.def Info: C:/GitHub/DataScience/wk_03/plots/PClassVsSurvivedHeatMap.png  used on input line 179.
 (pdftex.def)             Requested size: 242.61894pt x 181.96432pt.
 
-Underfull \vbox (badness 3179) has occurred while \output is active []
 
-
-
-[2 <C:/GitHub/DataScience/wk_03/plots/BoxPlotFareSurvived.png> <C:/GitHub/DataScience/wk_03/plots/HeatMapSexSurvived.png> <C:/GitHub/DataScience/wk_03/plots/BoxPlotSibSpSurvived.png> <C:/GitHub/DataScience/wk_03/plots/BoxPlotParchSurvived.png> <C:/GitHub/DataScience/wk_03/plots/HeatMapEmbarkedSurvived.png>]
-<C:/GitHub/DataScience/wk_03/plots/ViolionPlotSurvivedMean.png, id=26, 462.528pt x 346.896pt>
+<C:/GitHub/DataScience/wk_03/plots/ViolionPlotSurvivedMean.png, id=24, 462.528pt x 346.896pt>
 File: C:/GitHub/DataScience/wk_03/plots/ViolionPlotSurvivedMean.png Graphic file (type png)
 <use C:/GitHub/DataScience/wk_03/plots/ViolionPlotSurvivedMean.png>
-Package pdftex.def Info: C:/GitHub/DataScience/wk_03/plots/ViolionPlotSurvivedMean.png  used on input line 149.
+Package pdftex.def Info: C:/GitHub/DataScience/wk_03/plots/ViolionPlotSurvivedMean.png  used on input line 196.
 (pdftex.def)             Requested size: 242.61894pt x 181.96432pt.
-<C:/GitHub/DataScience/wk_03/plots/ViolinPlotKNNSurvived.png, id=27, 462.528pt x 346.896pt>
+
+
+[3 <C:/GitHub/DataScience/wk_03/plots/BoxPlotParchSurvived.png> <C:/GitHub/DataScience/wk_03/plots/HeatMapEmbarkedSurvived.png> <C:/GitHub/DataScience/wk_03/plots/PClassVsSurvivedHeatMap.png> <C:/GitHub/DataScience/wk_03/plots/ViolionPlotSurvivedMean.png>]
+<C:/GitHub/DataScience/wk_03/plots/ViolinPlotKNNSurvived.png, id=32, 462.528pt x 346.896pt>
 File: C:/GitHub/DataScience/wk_03/plots/ViolinPlotKNNSurvived.png Graphic file (type png)
 <use C:/GitHub/DataScience/wk_03/plots/ViolinPlotKNNSurvived.png>
-Package pdftex.def Info: C:/GitHub/DataScience/wk_03/plots/ViolinPlotKNNSurvived.png  used on input line 161.
+Package pdftex.def Info: C:/GitHub/DataScience/wk_03/plots/ViolinPlotKNNSurvived.png  used on input line 213.
 (pdftex.def)             Requested size: 242.61894pt x 181.96432pt.
-
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-<C:/GitHub/DataScience/wk_03/plots/ViolionPlotSurvivedMedian.png, id=28, 462.528pt x 346.896pt>
+<C:/GitHub/DataScience/wk_03/plots/ViolionPlotSurvivedMedian.png, id=33, 462.528pt x 346.896pt>
 File: C:/GitHub/DataScience/wk_03/plots/ViolionPlotSurvivedMedian.png Graphic file (type png)
 <use C:/GitHub/DataScience/wk_03/plots/ViolionPlotSurvivedMedian.png>
-Package pdftex.def Info: C:/GitHub/DataScience/wk_03/plots/ViolionPlotSurvivedMedian.png  used on input line 173.
+Package pdftex.def Info: C:/GitHub/DataScience/wk_03/plots/ViolionPlotSurvivedMedian.png  used on input line 230.
 (pdftex.def)             Requested size: 242.61894pt x 181.96432pt.
 
 
-<C:/GitHub/DataScience/wk_03/plots/ViolionPlotSurvivedMode.png, id=29, 462.528pt x 346.896pt>
+<C:/GitHub/DataScience/wk_03/plots/ViolionPlotSurvivedMode.png, id=34, 462.528pt x 346.896pt>
 File: C:/GitHub/DataScience/wk_03/plots/ViolionPlotSurvivedMode.png Graphic file (type png)
 <use C:/GitHub/DataScience/wk_03/plots/ViolionPlotSurvivedMode.png>
-Package pdftex.def Info: C:/GitHub/DataScience/wk_03/plots/ViolionPlotSurvivedMode.png  used on input line 185.
+Package pdftex.def Info: C:/GitHub/DataScience/wk_03/plots/ViolionPlotSurvivedMode.png  used on input line 247.
 (pdftex.def)             Requested size: 242.61894pt x 181.96432pt.
+<C:/GitHub/DataScience/wk_03/plots/FareAgeKNN.png, id=35, 462.528pt x 346.896pt>
+File: C:/GitHub/DataScience/wk_03/plots/FareAgeKNN.png Graphic file (type png)
+<use C:/GitHub/DataScience/wk_03/plots/FareAgeKNN.png>
+Package pdftex.def Info: C:/GitHub/DataScience/wk_03/plots/FareAgeKNN.png  used on input line 267.
+(pdftex.def)             Requested size: 242.61894pt x 181.96432pt.
+<C:/GitHub/DataScience/wk_03/plots/KDE.png, id=36, 433.62pt x 433.62pt>
+File: C:/GitHub/DataScience/wk_03/plots/KDE.png Graphic file (type png)
+<use C:/GitHub/DataScience/wk_03/plots/KDE.png>
+Package pdftex.def Info: C:/GitHub/DataScience/wk_03/plots/KDE.png  used on input line 274.
+(pdftex.def)             Requested size: 242.61894pt x 242.62042pt.
 
-LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[4 <C:/GitHub/DataScience/wk_03/plots/ViolinPlotKNNSurvived.png> <C:/GitHub/DataScience/wk_03/plots/ViolionPlotSurvivedMedian.png> <C:/GitHub/DataScience/wk_03/plots/ViolionPlotSurvivedMode.png> <C:/GitHub/DataScience/wk_03/plots/FareAgeKNN.png>]
 
 
 
-[3 <C:/GitHub/DataScience/wk_03/plots/PClassVsSurvivedHeatMap.png> <C:/GitHub/DataScience/wk_03/plots/ViolionPlotSurvivedMean.png> <C:/GitHub/DataScience/wk_03/plots/ViolinPlotKNNSurvived.png> <C:/GitHub/DataScience/wk_03/plots/ViolionPlotSurvivedMedian.png>]
+[5 <C:/GitHub/DataScience/wk_03/plots/KDE.png>]
 
 
 
-[4
+[6
 
- <C:/GitHub/DataScience/wk_03/plots/ViolionPlotSurvivedMode.png>] (Lab_3_JIC.aux)
+] (Lab_3_JIC.aux)
  ***********
 LaTeX2e <2024-11-01> patch level 1
 L3 programming layer <2024-12-25>
  ***********
  ) 
 Here is how much of TeX's memory you used:
- 3155 strings out of 473536
- 54914 string characters out of 5712536
+ 3171 strings out of 473536
+ 55695 string characters out of 5712536
  460719 words of memory out of 5000000
- 26350 multiletter control sequences out of 15000+600000
+ 26366 multiletter control sequences out of 15000+600000
  563961 words of font info for 54 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 59i,8n,67p,261b,231s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 59i,8n,67p,261b,228s stack positions out of 10000i,1000n,20000p,200000b,200000s
  <C:\Users\chowdhuryj\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1000.pk><C:/Users/chowdhuryj/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/chowdhuryj/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/chowdhuryj/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/chowdhuryj/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Users/chowdhuryj/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
-Output written on Lab_3_JIC.pdf (4 pages, 298512 bytes).
+Output written on Lab_3_JIC.pdf (6 pages, 397743 bytes).
 PDF statistics:
- 66 PDF objects out of 1000 (max. 8388607)
+ 76 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 51 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 61 words of extra memory for PDF output out of 10000 (max. 10000000)
 

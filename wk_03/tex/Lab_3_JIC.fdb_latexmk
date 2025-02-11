@@ -1,10 +1,12 @@
 # Fdb version 4
-["pdflatex"] 1739242955.18557 "c:/GitHub/DataScience/wk_03/tex/Lab_3_JIC.tex" "Lab_3_JIC.pdf" "Lab_3_JIC" 1739242956.41978 0
+["pdflatex"] 1739253155.37043 "c:/GitHub/DataScience/wk_03/tex/Lab_3_JIC.tex" "Lab_3_JIC.pdf" "Lab_3_JIC" 1739253156.90748 0
   "C:/GitHub/DataScience/wk_03/plots/BoxPlotFareSurvived.png" 1739240320 22125 fe7ccdcc70cef64099d58c05b588ff68 ""
   "C:/GitHub/DataScience/wk_03/plots/BoxPlotParchSurvived.png" 1739240979 19258 312f0a601ad740bcd83d96d05917c288 ""
   "C:/GitHub/DataScience/wk_03/plots/BoxPlotSibSpSurvived.png" 1739240792 19625 1a3c11eec612716e0d59f36ca96d7c50 ""
+  "C:/GitHub/DataScience/wk_03/plots/FareAgeKNN.png" 1739250921 59129 0f52e2875a432073574bf9a37bf67687 ""
   "C:/GitHub/DataScience/wk_03/plots/HeatMapEmbarkedSurvived.png" 1739241200 25942 83434d9910ca80d80defb74626ff1e52 ""
   "C:/GitHub/DataScience/wk_03/plots/HeatMapSexSurvived.png" 1739240595 18420 f340d0ab1c900a9adcad0c5eab7e2d68 ""
+  "C:/GitHub/DataScience/wk_03/plots/KDE.png" 1739250940 48682 660a612b40dcf7cc4f9447e8bb6e6e45 ""
   "C:/GitHub/DataScience/wk_03/plots/PClassVsSurvivedHeatMap.png" 1739240319 21604 bf8735f82cd9f827ecdaa5a7eadb1ac2 ""
   "C:/GitHub/DataScience/wk_03/plots/ViolinPlotKNNSurvived.png" 1739242261 29751 15c65cde5395bdf5fdaeb4068c9dbbff ""
   "C:/GitHub/DataScience/wk_03/plots/ViolionPlotSurvivedMean.png" 1739242112 29575 a4e1264dfc575b3aea929e911e4ce2b3 ""
@@ -62,9 +64,9 @@
   "C:/Users/chowdhuryj/AppData/Local/Programs/MiKTeX/tex/latex/kvoptions/kvoptions.sty" 1656236481 22555 6d8e155cfef6d82c3d5c742fea7c992e ""
   "C:/Users/chowdhuryj/AppData/Local/Programs/MiKTeX/tex/latex/kvsetkeys/kvsetkeys.sty" 1665066333 13815 760b0c02f691ea230f5359c4e1de23a7 ""
   "C:/Users/chowdhuryj/AppData/Local/Programs/MiKTeX/tex/latex/l3backend/l3backend-pdftex.def" 1716480499 29785 9f93ab201fe5dd053afcc6c1bcf7d266 ""
-  "Lab_3_JIC.aux" 1739242956 3307 57717f551b1806b9315126ee4823c54c "pdflatex"
-  "Lab_3_JIC.tex" 1739242954 10688 c622c23477ee77cbe641054b85bdbdea ""
-  "c:/GitHub/DataScience/wk_03/tex/Lab_3_JIC.tex" 1739242954 10688 c622c23477ee77cbe641054b85bdbdea ""
+  "Lab_3_JIC.aux" 1739253156 4131 de0afc499302ca4327d18d366873475d "pdflatex"
+  "Lab_3_JIC.tex" 1739253154 22279 ac6622fbae0bde9c294597b6d123d5a7 ""
+  "c:/GitHub/DataScience/wk_03/tex/Lab_3_JIC.tex" 1739253154 22279 ac6622fbae0bde9c294597b6d123d5a7 ""
   (generated)
   "Lab_3_JIC.aux"
   "Lab_3_JIC.log"
