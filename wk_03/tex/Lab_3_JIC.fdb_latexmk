@@ -1,5 +1,5 @@
 # Fdb version 4
-["pdflatex"] 1739160937.14759 "c:/GitHub/DataScience/wk_03/tex/Lab_3_JIC.tex" "Lab_3_JIC.pdf" "Lab_3_JIC" 1739160937.75216 0
+["pdflatex"] 1739231122.25287 "c:/GitHub/DataScience/wk_03/tex/Lab_3_JIC.tex" "Lab_3_JIC.pdf" "Lab_3_JIC" 1739231122.85684 0
   "C:/Users/chowdhuryj/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1738808097 80909 eab91d9745dd2edfd62a31d53cd5fe15 ""
   "C:/Users/chowdhuryj/AppData/Local/MiKTeX/fonts/pk/ljfour/jknappen/ec/dpi600/tcrm1000.pk" 1739155089 11548 f49887ef89b7ed0788c6124f7adb9cf1 ""
   "C:/Users/chowdhuryj/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1737942959 12015813 cd1a156d53829aef9f4414cbc622121f ""
@@ -37,9 +37,9 @@
   "C:/Users/chowdhuryj/AppData/Local/Programs/MiKTeX/tex/latex/geometry/geometry.sty" 1578053545 42759 9cf6c5257b1bc7af01a58859749dd37a ""
   "C:/Users/chowdhuryj/AppData/Local/Programs/MiKTeX/tex/latex/graphics/keyval.sty" 1730544106 2671 70891d50dac933918b827d326687c6e8 ""
   "C:/Users/chowdhuryj/AppData/Local/Programs/MiKTeX/tex/latex/l3backend/l3backend-pdftex.def" 1716480499 29785 9f93ab201fe5dd053afcc6c1bcf7d266 ""
-  "Lab_3_JIC.aux" 1739160937 335 fe1bf216274e0982ea694e9c062fda7c "pdflatex"
-  "Lab_3_JIC.tex" 1739160936 4051 031d092b1935456f7fe89da0f8eb14ce ""
-  "c:/GitHub/DataScience/wk_03/tex/Lab_3_JIC.tex" 1739160936 4051 031d092b1935456f7fe89da0f8eb14ce ""
+  "Lab_3_JIC.aux" 1739231122 335 fe1bf216274e0982ea694e9c062fda7c "pdflatex"
+  "Lab_3_JIC.tex" 1739231121 4039 b01063c0ca165e23f58d203645b83615 ""
+  "c:/GitHub/DataScience/wk_03/tex/Lab_3_JIC.tex" 1739231121 4039 b01063c0ca165e23f58d203645b83615 ""
   (generated)
   "Lab_3_JIC.aux"
   "Lab_3_JIC.log"

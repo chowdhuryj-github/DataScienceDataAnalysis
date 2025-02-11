@@ -42,7 +42,7 @@ variables are listed as follows:
     \item \texttt{Sex}: This is the sex of the passenger. 
     This is a nominal categorical data type,as genders can't be 
     ordered and is rather binary.
-    \item \texttt{Age}: Age of the Passenger. This is a discrete 
+    \item \texttt{Age}: Age of the Passenger. This is a continuous
     numerical data type, as the difference between units is 
     constant and can be counted.
     \item \texttt{SibSp}: Number of Siblings / Spouses of the
@@ -70,18 +70,19 @@ variables are listed as follows:
     fractional values and has a true zero point.
     \item \texttt{Age\_fill\_median}: This is a copy of the Age
     column but the blanks have been filled in with the median.
-    This is a ratio numerical data type, because there are 
-    fractional values and has a true zero point.
+    This is a discrete numerical data type because the age is 
+    defined to be continuous numerical.
     \item \texttt{Age\_fill\_mode}: This is a copy of the Age column
     but the blanks have been filled in with the mode.
-    This is a ratio numerical data type, because there are 
-    fractional values and has a true zero point.
+    This is a discrete numerical data type, because the age is 
+    defined to be continuous numerical.
     \item \texttt{Age\_fill\_knn}: This is a copy of the Age column
     but the blanks have been filled in with the mean.
     This is a ratio numerical data type, because there are 
     fractional values and has a true zero point.
-    
 \end{itemize}
+
+
 
 
 
