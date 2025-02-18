@@ -1,0 +1,209 @@
+PWD c:\GitHub\DataScience\wk_04\tex
+INPUT C:\Users\chowdhuryj\AppData\Local\MiKTeX\miktex\data\le\pdftex\pdflatex.fmt
+INPUT c:\GitHub\DataScience\wk_04\tex\Lab_4_JIC.tex
+OUTPUT Lab_4_JIC.log
+INPUT C:\Users\chowdhuryj\AppData\Local\Programs\MiKTeX\tex\latex\base\article.cls
+INPUT C:\Users\chowdhuryj\AppData\Local\Programs\MiKTeX\tex\latex\base\article.cls
+INPUT C:\Users\chowdhuryj\AppData\Local\Programs\MiKTeX\tex\latex\base\size10.clo
+INPUT C:\Users\chowdhuryj\AppData\Local\Programs\MiKTeX\tex\latex\base\size10.clo
+INPUT C:\Users\chowdhuryj\AppData\Local\Programs\MiKTeX\tex\latex\base\size10.clo
+INPUT C:\Users\chowdhuryj\AppData\Local\Programs\MiKTeX\tex\latex\graphics\graphicx.sty
+INPUT C:\Users\chowdhuryj\AppData\Local\Programs\MiKTeX\tex\latex\graphics\graphicx.sty
+INPUT C:\Users\chowdhuryj\AppData\Local\Programs\MiKTeX\tex\latex\graphics\keyval.sty
+INPUT C:\Users\chowdhuryj\AppData\Local\Programs\MiKTeX\tex\latex\graphics\keyval.sty
+INPUT C:\Users\chowdhuryj\AppData\Local\Programs\MiKTeX\tex\latex\graphics\graphics.sty
+INPUT C:\Users\chowdhuryj\AppData\Local\Programs\MiKTeX\tex\latex\graphics\graphics.sty
+INPUT C:\Users\chowdhuryj\AppData\Local\Programs\MiKTeX\tex\latex\graphics\trig.sty
+INPUT C:\Users\chowdhuryj\AppData\Local\Programs\MiKTeX\tex\latex\graphics\trig.sty
+INPUT C:\Users\chowdhuryj\AppData\Local\Programs\MiKTeX\tex\latex\graphics-cfg\graphics.cfg
+INPUT C:\Users\chowdhuryj\AppData\Local\Programs\MiKTeX\tex\latex\graphics-cfg\graphics.cfg
+INPUT C:\Users\chowdhuryj\AppData\Local\Programs\MiKTeX\tex\latex\graphics-cfg\graphics.cfg
+INPUT C:\Users\chowdhuryj\AppData\Local\Programs\MiKTeX\tex\latex\graphics-def\pdftex.def
+INPUT C:\Users\chowdhuryj\AppData\Local\Programs\MiKTeX\tex\latex\graphics-def\pdftex.def
+INPUT C:\Users\chowdhuryj\AppData\Local\Programs\MiKTeX\tex\latex\graphics-def\pdftex.def
+INPUT C:\Users\chowdhuryj\AppData\Local\Programs\MiKTeX\tex\latex\geometry\geometry.sty
+INPUT C:\Users\chowdhuryj\AppData\Local\Programs\MiKTeX\tex\latex\geometry\geometry.sty
+INPUT C:\Users\chowdhuryj\AppData\Local\Programs\MiKTeX\tex\generic\iftex\ifvtex.sty
+INPUT C:\Users\chowdhuryj\AppData\Local\Programs\MiKTeX\tex\generic\iftex\ifvtex.sty
+INPUT C:\Users\chowdhuryj\AppData\Local\Programs\MiKTeX\tex\generic\iftex\iftex.sty
+INPUT C:\Users\chowdhuryj\AppData\Local\Programs\MiKTeX\tex\generic\iftex\iftex.sty
+INPUT C:\Users\chowdhuryj\AppData\Local\Programs\MiKTeX\tex\latex\geometry\geometry.cfg
+INPUT C:\Users\chowdhuryj\AppData\Local\Programs\MiKTeX\tex\latex\geometry\geometry.cfg
+INPUT C:\Users\chowdhuryj\AppData\Local\Programs\MiKTeX\tex\latex\geometry\geometry.cfg
+INPUT C:\Users\chowdhuryj\AppData\Local\Programs\MiKTeX\tex\latex\booktabs\booktabs.sty
+INPUT C:\Users\chowdhuryj\AppData\Local\Programs\MiKTeX\tex\latex\booktabs\booktabs.sty
+INPUT C:\Users\chowdhuryj\AppData\Local\Programs\MiKTeX\tex\latex\tools\tabularx.sty
+INPUT C:\Users\chowdhuryj\AppData\Local\Programs\MiKTeX\tex\latex\tools\tabularx.sty
+INPUT C:\Users\chowdhuryj\AppData\Local\Programs\MiKTeX\tex\latex\tools\array.sty
+INPUT C:\Users\chowdhuryj\AppData\Local\Programs\MiKTeX\tex\latex\tools\array.sty
+INPUT C:\Users\chowdhuryj\AppData\Local\Programs\MiKTeX\tex\latex\l3backend\l3backend-pdftex.def
+INPUT C:\Users\chowdhuryj\AppData\Local\Programs\MiKTeX\tex\latex\l3backend\l3backend-pdftex.def
+INPUT .\Lab_4_JIC.aux
+INPUT .\Lab_4_JIC.aux
+INPUT Lab_4_JIC.aux
+OUTPUT Lab_4_JIC.aux
+INPUT C:\Users\chowdhuryj\AppData\Local\Programs\MiKTeX\tex\context\base\mkii\supp-pdf.mkii
+INPUT C:\Users\chowdhuryj\AppData\Local\Programs\MiKTeX\tex\context\base\mkii\supp-pdf.mkii
+INPUT C:\Users\chowdhuryj\AppData\Local\Programs\MiKTeX\tex\context\base\mkii\supp-pdf.mkii
+INPUT C:\Users\chowdhuryj\AppData\Local\Programs\MiKTeX\tex\latex\epstopdf-pkg\epstopdf-base.sty
+INPUT C:\Users\chowdhuryj\AppData\Local\Programs\MiKTeX\tex\latex\epstopdf-pkg\epstopdf-base.sty
+INPUT C:\Users\chowdhuryj\AppData\Local\Programs\MiKTeX\tex\latex\00miktex\epstopdf-sys.cfg
+INPUT C:\Users\chowdhuryj\AppData\Local\Programs\MiKTeX\tex\latex\00miktex\epstopdf-sys.cfg
+INPUT C:\Users\chowdhuryj\AppData\Local\Programs\MiKTeX\tex\latex\00miktex\epstopdf-sys.cfg
+INPUT C:\Users\chowdhuryj\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmr17.tfm
+INPUT C:\Users\chowdhuryj\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmr12.tfm
+INPUT C:\Users\chowdhuryj\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmr8.tfm
+INPUT C:\Users\chowdhuryj\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmr6.tfm
+INPUT C:\Users\chowdhuryj\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmmi12.tfm
+INPUT C:\Users\chowdhuryj\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmmi8.tfm
+INPUT C:\Users\chowdhuryj\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmmi6.tfm
+INPUT C:\Users\chowdhuryj\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmsy10.tfm
+INPUT C:\Users\chowdhuryj\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmsy8.tfm
+INPUT C:\Users\chowdhuryj\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmsy6.tfm
+INPUT C:\Users\chowdhuryj\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmr12.tfm
+INPUT C:\Users\chowdhuryj\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmbx12.tfm
+INPUT C:\Users\chowdhuryj\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmbx12.tfm
+INPUT C:\Users\chowdhuryj\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmtt10.tfm
+INPUT C:\Users\chowdhuryj\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmbx10.tfm
+INPUT C:\GitHub\DataScience\wk_04\plots\PDFNormalDistribution.png
+INPUT C:\GitHub\DataScience\wk_04\plots\PDFNormalDistribution.png
+INPUT C:\GitHub\DataScience\wk_04\plots\PDFNormalDistribution.png
+INPUT C:\GitHub\DataScience\wk_04\plots\PDFNormalDistribution.png
+OUTPUT Lab_4_JIC.pdf
+INPUT C:\GitHub\DataScience\wk_04\plots\PDFNormalDistribution.png
+INPUT C:\GitHub\DataScience\wk_04\plots\PDFNormalDistribution.png
+INPUT C:\GitHub\DataScience\wk_04\plots\PDFNormalDistribution.png
+INPUT C:\Users\chowdhuryj\AppData\Local\MiKTeX\fonts\map\pdftex\pdftex.map
+INPUT C:\GitHub\DataScience\wk_04\plots\CDFNormalDistribution.png
+INPUT C:\GitHub\DataScience\wk_04\plots\CDFNormalDistribution.png
+INPUT C:\GitHub\DataScience\wk_04\plots\CDFNormalDistribution.png
+INPUT C:\GitHub\DataScience\wk_04\plots\CDFNormalDistribution.png
+INPUT C:\GitHub\DataScience\wk_04\plots\CDFNormalDistribution.png
+INPUT C:\GitHub\DataScience\wk_04\plots\CDFNormalDistribution.png
+INPUT C:\GitHub\DataScience\wk_04\plots\CDFNormalDistribution.png
+INPUT C:\GitHub\DataScience\wk_04\plots\PPFHistogram.png
+INPUT C:\GitHub\DataScience\wk_04\plots\PPFHistogram.png
+INPUT C:\GitHub\DataScience\wk_04\plots\PPFHistogram.png
+INPUT C:\GitHub\DataScience\wk_04\plots\PPFHistogram.png
+INPUT C:\GitHub\DataScience\wk_04\plots\PPFHistogram.png
+INPUT C:\GitHub\DataScience\wk_04\plots\PPFHistogram.png
+INPUT C:\GitHub\DataScience\wk_04\plots\PPFHistogram.png
+INPUT C:\Users\chowdhuryj\AppData\Local\Programs\MiKTeX\fonts\tfm\jknappen\ec\tcrm1000.tfm
+INPUT C:\GitHub\DataScience\wk_04\plots\NDH of 10 Samples.png
+INPUT C:\GitHub\DataScience\wk_04\plots\NDH of 10 Samples.png
+INPUT C:\GitHub\DataScience\wk_04\plots\NDH of 10 Samples.png
+INPUT C:\GitHub\DataScience\wk_04\plots\NDH of 10 Samples.png
+INPUT C:\GitHub\DataScience\wk_04\plots\NDH of 10 Samples.png
+INPUT C:\GitHub\DataScience\wk_04\plots\NDH of 10 Samples.png
+INPUT C:\GitHub\DataScience\wk_04\plots\NDH of 10 Samples.png
+INPUT C:\GitHub\DataScience\wk_04\plots\NDH of 20 Samples.png
+INPUT C:\GitHub\DataScience\wk_04\plots\NDH of 20 Samples.png
+INPUT C:\GitHub\DataScience\wk_04\plots\NDH of 20 Samples.png
+INPUT C:\GitHub\DataScience\wk_04\plots\NDH of 20 Samples.png
+INPUT C:\GitHub\DataScience\wk_04\plots\NDH of 20 Samples.png
+INPUT C:\GitHub\DataScience\wk_04\plots\NDH of 20 Samples.png
+INPUT C:\GitHub\DataScience\wk_04\plots\NDH of 20 Samples.png
+INPUT C:\GitHub\DataScience\wk_04\plots\NDH of 40 Samples.png
+INPUT C:\GitHub\DataScience\wk_04\plots\NDH of 40 Samples.png
+INPUT C:\GitHub\DataScience\wk_04\plots\NDH of 40 Samples.png
+INPUT C:\GitHub\DataScience\wk_04\plots\NDH of 40 Samples.png
+INPUT C:\GitHub\DataScience\wk_04\plots\NDH of 40 Samples.png
+INPUT C:\GitHub\DataScience\wk_04\plots\NDH of 40 Samples.png
+INPUT C:\GitHub\DataScience\wk_04\plots\NDH of 40 Samples.png
+INPUT C:\GitHub\DataScience\wk_04\plots\NDH of 80 Samples.png
+INPUT C:\GitHub\DataScience\wk_04\plots\NDH of 80 Samples.png
+INPUT C:\GitHub\DataScience\wk_04\plots\NDH of 80 Samples.png
+INPUT C:\GitHub\DataScience\wk_04\plots\NDH of 80 Samples.png
+INPUT C:\GitHub\DataScience\wk_04\plots\NDH of 80 Samples.png
+INPUT C:\GitHub\DataScience\wk_04\plots\NDH of 80 Samples.png
+INPUT C:\GitHub\DataScience\wk_04\plots\NDH of 80 Samples.png
+INPUT C:\GitHub\DataScience\wk_04\plots\NDH of 160 Samples.png
+INPUT C:\GitHub\DataScience\wk_04\plots\NDH of 160 Samples.png
+INPUT C:\GitHub\DataScience\wk_04\plots\NDH of 160 Samples.png
+INPUT C:\GitHub\DataScience\wk_04\plots\NDH of 160 Samples.png
+INPUT C:\GitHub\DataScience\wk_04\plots\NDH of 160 Samples.png
+INPUT C:\GitHub\DataScience\wk_04\plots\NDH of 160 Samples.png
+INPUT C:\GitHub\DataScience\wk_04\plots\NDH of 160 Samples.png
+INPUT C:\GitHub\DataScience\wk_04\plots\PDFHistogram 10 Samples.png
+INPUT C:\GitHub\DataScience\wk_04\plots\PDFHistogram 10 Samples.png
+INPUT C:\GitHub\DataScience\wk_04\plots\PDFHistogram 10 Samples.png
+INPUT C:\GitHub\DataScience\wk_04\plots\PDFHistogram 10 Samples.png
+INPUT C:\GitHub\DataScience\wk_04\plots\PDFHistogram 10 Samples.png
+INPUT C:\GitHub\DataScience\wk_04\plots\PDFHistogram 10 Samples.png
+INPUT C:\GitHub\DataScience\wk_04\plots\PDFHistogram 10 Samples.png
+INPUT C:\GitHub\DataScience\wk_04\plots\PDFHistogram 20 Samples.png
+INPUT C:\GitHub\DataScience\wk_04\plots\PDFHistogram 20 Samples.png
+INPUT C:\GitHub\DataScience\wk_04\plots\PDFHistogram 20 Samples.png
+INPUT C:\GitHub\DataScience\wk_04\plots\PDFHistogram 20 Samples.png
+INPUT C:\GitHub\DataScience\wk_04\plots\PDFHistogram 20 Samples.png
+INPUT C:\GitHub\DataScience\wk_04\plots\PDFHistogram 20 Samples.png
+INPUT C:\GitHub\DataScience\wk_04\plots\PDFHistogram 20 Samples.png
+INPUT C:\GitHub\DataScience\wk_04\plots\PDFHistogram 40 Samples.png
+INPUT C:\GitHub\DataScience\wk_04\plots\PDFHistogram 40 Samples.png
+INPUT C:\GitHub\DataScience\wk_04\plots\PDFHistogram 40 Samples.png
+INPUT C:\GitHub\DataScience\wk_04\plots\PDFHistogram 40 Samples.png
+INPUT C:\GitHub\DataScience\wk_04\plots\PDFHistogram 40 Samples.png
+INPUT C:\GitHub\DataScience\wk_04\plots\PDFHistogram 40 Samples.png
+INPUT C:\GitHub\DataScience\wk_04\plots\PDFHistogram 40 Samples.png
+INPUT C:\GitHub\DataScience\wk_04\plots\PDFHistogram 80 Samples.png
+INPUT C:\GitHub\DataScience\wk_04\plots\PDFHistogram 80 Samples.png
+INPUT C:\GitHub\DataScience\wk_04\plots\PDFHistogram 80 Samples.png
+INPUT C:\GitHub\DataScience\wk_04\plots\PDFHistogram 80 Samples.png
+INPUT C:\GitHub\DataScience\wk_04\plots\PDFHistogram 80 Samples.png
+INPUT C:\GitHub\DataScience\wk_04\plots\PDFHistogram 80 Samples.png
+INPUT C:\GitHub\DataScience\wk_04\plots\PDFHistogram 80 Samples.png
+INPUT C:\GitHub\DataScience\wk_04\plots\PDFHistogram 160 Samples.png
+INPUT C:\GitHub\DataScience\wk_04\plots\PDFHistogram 160 Samples.png
+INPUT C:\GitHub\DataScience\wk_04\plots\PDFHistogram 160 Samples.png
+INPUT C:\GitHub\DataScience\wk_04\plots\PDFHistogram 160 Samples.png
+INPUT C:\GitHub\DataScience\wk_04\plots\PDFHistogram 160 Samples.png
+INPUT C:\GitHub\DataScience\wk_04\plots\PDFHistogram 160 Samples.png
+INPUT C:\GitHub\DataScience\wk_04\plots\PDFHistogram 160 Samples.png
+INPUT C:\GitHub\DataScience\wk_04\plots\EffectSizeIterations.png
+INPUT C:\GitHub\DataScience\wk_04\plots\EffectSizeIterations.png
+INPUT C:\GitHub\DataScience\wk_04\plots\EffectSizeIterations.png
+INPUT C:\GitHub\DataScience\wk_04\plots\EffectSizeIterations.png
+INPUT C:\GitHub\DataScience\wk_04\plots\EffectSizeIterations.png
+INPUT C:\GitHub\DataScience\wk_04\plots\EffectSizeIterations.png
+INPUT C:\GitHub\DataScience\wk_04\plots\EffectSizeIterations.png
+INPUT C:\GitHub\DataScience\wk_04\plots\HistogramSample.png
+INPUT C:\GitHub\DataScience\wk_04\plots\HistogramSample.png
+INPUT C:\GitHub\DataScience\wk_04\plots\HistogramSample.png
+INPUT C:\GitHub\DataScience\wk_04\plots\HistogramSample.png
+INPUT C:\GitHub\DataScience\wk_04\plots\HistogramSample.png
+INPUT C:\GitHub\DataScience\wk_04\plots\HistogramSample.png
+INPUT C:\GitHub\DataScience\wk_04\plots\HistogramSample.png
+INPUT C:\GitHub\DataScience\wk_04\plots\HistogramIterations.png
+INPUT C:\GitHub\DataScience\wk_04\plots\HistogramIterations.png
+INPUT C:\GitHub\DataScience\wk_04\plots\HistogramIterations.png
+INPUT C:\GitHub\DataScience\wk_04\plots\HistogramIterations.png
+INPUT C:\GitHub\DataScience\wk_04\plots\HistogramIterations.png
+INPUT C:\GitHub\DataScience\wk_04\plots\HistogramIterations.png
+INPUT C:\GitHub\DataScience\wk_04\plots\HistogramIterations.png
+INPUT C:\GitHub\DataScience\wk_04\plots\HistogramSample.png
+INPUT C:\GitHub\DataScience\wk_04\plots\HistogramSample.png
+INPUT C:\GitHub\DataScience\wk_04\plots\HistogramSample.png
+INPUT C:\GitHub\DataScience\wk_04\plots\HistogramSample.png
+INPUT Lab_4_JIC.aux
+INPUT C:\Users\chowdhuryj\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\tcrm1000.pk
+INPUT C:\Users\chowdhuryj\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\tcrm1000.pk
+INPUT C:\Users\chowdhuryj\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmbx10.pfb
+INPUT C:\Users\chowdhuryj\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmbx10.pfb
+INPUT C:\Users\chowdhuryj\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmbx12.pfb
+INPUT C:\Users\chowdhuryj\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmbx12.pfb
+INPUT C:\Users\chowdhuryj\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmmi10.pfb
+INPUT C:\Users\chowdhuryj\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmmi10.pfb
+INPUT C:\Users\chowdhuryj\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmr10.pfb
+INPUT C:\Users\chowdhuryj\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmr10.pfb
+INPUT C:\Users\chowdhuryj\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmr12.pfb
+INPUT C:\Users\chowdhuryj\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmr12.pfb
+INPUT C:\Users\chowdhuryj\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmr17.pfb
+INPUT C:\Users\chowdhuryj\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmr17.pfb
+INPUT C:\Users\chowdhuryj\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmr7.pfb
+INPUT C:\Users\chowdhuryj\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmr7.pfb
+INPUT C:\Users\chowdhuryj\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmsy10.pfb
+INPUT C:\Users\chowdhuryj\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmsy10.pfb
+INPUT C:\Users\chowdhuryj\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmsy7.pfb
+INPUT C:\Users\chowdhuryj\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmsy7.pfb
+INPUT C:\Users\chowdhuryj\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmtt10.pfb
+INPUT C:\Users\chowdhuryj\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmtt10.pfb
