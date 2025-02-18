@@ -1,0 +1,15 @@
+html-minifier --collapse-whitespace --remove-comments --minify-js true --minify-css true input.html -o output.min.html
+
+
+1. Introduction
+    - purpose of the lab
+    - describe the dataset and what is it
+2. Methods
+    - discuss the theory
+3. Results
+    - plots and written descriptions of them in a narrative format
+    - reference to a figure one
+4. Discussion
+    - discussion to just answer the lab documents in a narrative format
+    - add in footnotes  
+
