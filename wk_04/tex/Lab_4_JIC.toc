@@ -1,0 +1,25 @@
+\contentsline {section}{\numberline {1}Introduction}{3}{}%
+\contentsline {subsection}{\numberline {1.1}Dataset Description}{3}{}%
+\contentsline {subsection}{\numberline {1.2}Dataset Summary Statistics}{3}{}%
+\contentsline {section}{\numberline {2}Methods}{3}{}%
+\contentsline {subsection}{\numberline {2.1}Sampling \& Plotting}{3}{}%
+\contentsline {section}{\numberline {3}Results}{3}{}%
+\contentsline {subsection}{\numberline {3.1}Creating \& Plotting a Probability Density Function}{3}{}%
+\contentsline {subsection}{\numberline {3.2}Creating \& Plotting Cumulative Distribution Function}{4}{}%
+\contentsline {subsection}{\numberline {3.3}The Inverse Cumulative Distribution Function}{4}{}%
+\contentsline {subsection}{\numberline {3.4}Normal Distribution Histogram of 10, 20, 40, 80 and 160 Samples}{4}{}%
+\contentsline {subsubsection}{\numberline {3.4.1}Normal Distribution Histogram of 10 Samples}{5}{}%
+\contentsline {subsubsection}{\numberline {3.4.2}Normal Distribution Histogram of 20 Samples}{5}{}%
+\contentsline {subsubsection}{\numberline {3.4.3}Normal Distribution Histogram of 40 Samples}{5}{}%
+\contentsline {subsubsection}{\numberline {3.4.4}Normal Distrubtion Histogram of 80 Samples}{5}{}%
+\contentsline {subsubsection}{\numberline {3.4.5}Normal Distrubtion Histogram of 160 Samples}{6}{}%
+\contentsline {subsection}{\numberline {3.5}Normal Probability Density Function over Histogram}{6}{}%
+\contentsline {subsection}{\numberline {3.6}Effect Size vs Iterations}{7}{}%
+\contentsline {subsection}{\numberline {3.7}Histogram of Largest Effect Size of Sample Groups}{7}{}%
+\contentsline {subsection}{\numberline {3.8}Histogram of Effect Size}{8}{}%
+\contentsline {subsection}{\numberline {3.9}Histogram of Smallest Effect Size of Two Samples }{8}{}%
+\contentsline {section}{\numberline {4}Discussion}{8}{}%
+\contentsline {subsection}{\numberline {4.1}Sampling and Normal Distribution}{8}{}%
+\contentsline {subsection}{\numberline {4.2}The Sampling Method}{8}{}%
+\contentsline {subsection}{\numberline {4.3}The Type I and II Error}{8}{}%
+\contentsline {subsection}{\numberline {4.4}A Journey into Bootstrapping}{9}{}%

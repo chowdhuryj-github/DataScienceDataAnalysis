@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2025.1.26)  17 FEB 2025 21:54
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2025.1.26)  17 FEB 2025 23:10
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -173,274 +173,355 @@ File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12> on input line 19.
+(Font)              <12> on input line 18.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 19.
+(Font)              <8> on input line 18.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 19.
+(Font)              <6> on input line 18.
 
-Underfull \hbox (badness 10000) in paragraph at lines 26--29
+
+
+
+[1{C:/Users/chowdhuryj/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}
+
+
+
+] (Lab_4_JIC.toc
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 2.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 2.
+)
+\tf@toc=\write3
+\openout3 = `Lab_4_JIC.toc'.
+
+
+
+[2
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 29--32
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 35--38
+Underfull \hbox (badness 10000) in paragraph at lines 33--36
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 42--45
 []\OT1/cmr/m/n/10 The sec-ond dataset is con-tained within a
  []
 
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 47.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 47.
 
-Underfull \hbox (badness 1132) in paragraph at lines 69--73
-\OT1/cmr/m/n/10 ing from \OT1/cmtt/m/n/10 mean - 5*standard[]deviation \OT1/cmr/m/n/10 to \OT1/cmtt/m/n/10 mean +
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 69--73
+Underfull \hbox (badness 10000) in paragraph at lines 47--50
 
  []
-
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 74--77
 
  []
 
-<C:/GitHub/DataScience/wk_04/plots/PDFNormalDistribution.png, id=1, 462.528pt x 346.896pt>
+
+Underfull \hbox (badness 10000) in paragraph at lines 78--80
+
+ []
+
+
+
+
+Underfull \hbox (badness 1132) in paragraph at lines 88--92
+\OT1/cmr/m/n/10 ing from \OT1/cmtt/m/n/10 mean - 5*standard[]deviation \OT1/cmr/m/n/10 to \OT1/cmtt/m/n/10 mean +
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 88--92
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 93--96
+
+ []
+
+<C:/GitHub/DataScience/wk_04/plots/PDFNormalDistribution.png, id=13, 462.528pt x 346.896pt>
 File: C:/GitHub/DataScience/wk_04/plots/PDFNormalDistribution.png Graphic file (type png)
 <use C:/GitHub/DataScience/wk_04/plots/PDFNormalDistribution.png>
-Package pdftex.def Info: C:/GitHub/DataScience/wk_04/plots/PDFNormalDistribution.png  used on input line 85.
+Package pdftex.def Info: C:/GitHub/DataScience/wk_04/plots/PDFNormalDistribution.png  used on input line 104.
 (pdftex.def)             Requested size: 242.61894pt x 181.96432pt.
 
 
-[1{C:/Users/chowdhuryj/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}
-
+[3
 
  <C:/GitHub/DataScience/wk_04/plots/PDFNormalDistribution.png>]
-Underfull \hbox (badness 2818) in paragraph at lines 91--91
+Underfull \hbox (badness 2818) in paragraph at lines 110--110
 []\OT1/cmr/bx/n/12 Creating & Plot-ting Cu-mu-la-tive
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 92--95
+Underfull \hbox (badness 10000) in paragraph at lines 111--114
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 96--99
+Underfull \hbox (badness 10000) in paragraph at lines 115--118
 
  []
 
-<C:/GitHub/DataScience/wk_04/plots/CDFNormalDistribution.png, id=14, 462.528pt x 346.896pt>
+<C:/GitHub/DataScience/wk_04/plots/CDFNormalDistribution.png, id=20, 462.528pt x 346.896pt>
 File: C:/GitHub/DataScience/wk_04/plots/CDFNormalDistribution.png Graphic file (type png)
 <use C:/GitHub/DataScience/wk_04/plots/CDFNormalDistribution.png>
-Package pdftex.def Info: C:/GitHub/DataScience/wk_04/plots/CDFNormalDistribution.png  used on input line 108.
+Package pdftex.def Info: C:/GitHub/DataScience/wk_04/plots/CDFNormalDistribution.png  used on input line 127.
 (pdftex.def)             Requested size: 242.61894pt x 181.96432pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 113--117
+Underfull \hbox (badness 10000) in paragraph at lines 132--136
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 118--121
+Underfull \hbox (badness 10000) in paragraph at lines 137--140
 
  []
 
 
 
-<C:/GitHub/DataScience/wk_04/plots/PPFHistogram.png, id=15, 462.528pt x 346.896pt>
+<C:/GitHub/DataScience/wk_04/plots/PPFHistogram.png, id=21, 462.528pt x 346.896pt>
 File: C:/GitHub/DataScience/wk_04/plots/PPFHistogram.png Graphic file (type png)
 <use C:/GitHub/DataScience/wk_04/plots/PPFHistogram.png>
-Package pdftex.def Info: C:/GitHub/DataScience/wk_04/plots/PPFHistogram.png  used on input line 130.
+Package pdftex.def Info: C:/GitHub/DataScience/wk_04/plots/PPFHistogram.png  used on input line 149.
 (pdftex.def)             Requested size: 242.61894pt x 181.96432pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 135--138
+Underfull \hbox (badness 10000) in paragraph at lines 154--157
 
  []
 
 
 
-[2 <C:/GitHub/DataScience/wk_04/plots/CDFNormalDistribution.png> <C:/GitHub/DataScience/wk_04/plots/PPFHistogram.png>]
-Underfull \hbox (badness 1609) in paragraph at lines 152--152
+[4 <C:/GitHub/DataScience/wk_04/plots/CDFNormalDistribution.png> <C:/GitHub/DataScience/wk_04/plots/PPFHistogram.png>]
+Underfull \hbox (badness 1609) in paragraph at lines 171--171
 []\OT1/cmr/bx/n/10 Normal Dis-tri-bu-tion His-togram of 10
  []
 
-<C:/GitHub/DataScience/wk_04/plots/NDH of 10 Samples.png, id=22, 462.528pt x 346.896pt>
+<C:/GitHub/DataScience/wk_04/plots/NDH of 10 Samples.png, id=28, 462.528pt x 346.896pt>
 File: C:/GitHub/DataScience/wk_04/plots/NDH of 10 Samples.png Graphic file (type png)
 <use C:/GitHub/DataScience/wk_04/plots/NDH of 10 Samples.png>
-Package pdftex.def Info: C:/GitHub/DataScience/wk_04/plots/NDH of 10 Samples.png  used on input line 161.
+Package pdftex.def Info: C:/GitHub/DataScience/wk_04/plots/NDH of 10 Samples.png  used on input line 180.
 (pdftex.def)             Requested size: 242.61894pt x 181.96432pt.
 
-Underfull \hbox (badness 1609) in paragraph at lines 165--165
+Underfull \hbox (badness 1609) in paragraph at lines 184--184
 []\OT1/cmr/bx/n/10 Normal Dis-tri-bu-tion His-togram of 20
  []
 
-<C:/GitHub/DataScience/wk_04/plots/NDH of 20 Samples.png, id=23, 462.528pt x 346.896pt>
+<C:/GitHub/DataScience/wk_04/plots/NDH of 20 Samples.png, id=29, 462.528pt x 346.896pt>
 File: C:/GitHub/DataScience/wk_04/plots/NDH of 20 Samples.png Graphic file (type png)
 <use C:/GitHub/DataScience/wk_04/plots/NDH of 20 Samples.png>
-Package pdftex.def Info: C:/GitHub/DataScience/wk_04/plots/NDH of 20 Samples.png  used on input line 173.
+Package pdftex.def Info: C:/GitHub/DataScience/wk_04/plots/NDH of 20 Samples.png  used on input line 192.
 (pdftex.def)             Requested size: 242.61894pt x 181.96432pt.
 
-Underfull \hbox (badness 1609) in paragraph at lines 177--177
+Underfull \hbox (badness 1609) in paragraph at lines 196--196
 []\OT1/cmr/bx/n/10 Normal Dis-tri-bu-tion His-togram of 40
  []
 
-<C:/GitHub/DataScience/wk_04/plots/NDH of 40 Samples.png, id=24, 462.528pt x 346.896pt>
+<C:/GitHub/DataScience/wk_04/plots/NDH of 40 Samples.png, id=30, 462.528pt x 346.896pt>
 File: C:/GitHub/DataScience/wk_04/plots/NDH of 40 Samples.png Graphic file (type png)
 <use C:/GitHub/DataScience/wk_04/plots/NDH of 40 Samples.png>
-Package pdftex.def Info: C:/GitHub/DataScience/wk_04/plots/NDH of 40 Samples.png  used on input line 185.
+Package pdftex.def Info: C:/GitHub/DataScience/wk_04/plots/NDH of 40 Samples.png  used on input line 204.
 (pdftex.def)             Requested size: 242.61894pt x 181.96432pt.
 
-Underfull \hbox (badness 2547) in paragraph at lines 189--189
+Underfull \hbox (badness 2547) in paragraph at lines 208--208
 []\OT1/cmr/bx/n/10 Normal Dis-trub-tion His-togram of 80
  []
 
 
 
-<C:/GitHub/DataScience/wk_04/plots/NDH of 80 Samples.png, id=25, 462.528pt x 346.896pt>
+<C:/GitHub/DataScience/wk_04/plots/NDH of 80 Samples.png, id=31, 462.528pt x 346.896pt>
 File: C:/GitHub/DataScience/wk_04/plots/NDH of 80 Samples.png Graphic file (type png)
 <use C:/GitHub/DataScience/wk_04/plots/NDH of 80 Samples.png>
-Package pdftex.def Info: C:/GitHub/DataScience/wk_04/plots/NDH of 80 Samples.png  used on input line 197.
+Package pdftex.def Info: C:/GitHub/DataScience/wk_04/plots/NDH of 80 Samples.png  used on input line 216.
 (pdftex.def)             Requested size: 242.61894pt x 181.96432pt.
 
 
-[3 <C:/GitHub/DataScience/wk_04/plots/NDH of 10 Samples.png> <C:/GitHub/DataScience/wk_04/plots/NDH of 20 Samples.png> <C:/GitHub/DataScience/wk_04/plots/NDH of 40 Samples.png> <C:/GitHub/DataScience/wk_04/plots/NDH of 80 Samples.png>]
-Underfull \hbox (badness 1052) in paragraph at lines 203--203
+[5 <C:/GitHub/DataScience/wk_04/plots/NDH of 10 Samples.png> <C:/GitHub/DataScience/wk_04/plots/NDH of 20 Samples.png> <C:/GitHub/DataScience/wk_04/plots/NDH of 40 Samples.png> <C:/GitHub/DataScience/wk_04/plots/NDH of 80 Samples.png>]
+Underfull \hbox (badness 1052) in paragraph at lines 222--222
 []\OT1/cmr/bx/n/10 Normal Dis-trub-tion His-togram of 160
  []
 
-<C:/GitHub/DataScience/wk_04/plots/NDH of 160 Samples.png, id=33, 462.528pt x 346.896pt>
+<C:/GitHub/DataScience/wk_04/plots/NDH of 160 Samples.png, id=39, 462.528pt x 346.896pt>
 File: C:/GitHub/DataScience/wk_04/plots/NDH of 160 Samples.png Graphic file (type png)
 <use C:/GitHub/DataScience/wk_04/plots/NDH of 160 Samples.png>
-Package pdftex.def Info: C:/GitHub/DataScience/wk_04/plots/NDH of 160 Samples.png  used on input line 212.
+Package pdftex.def Info: C:/GitHub/DataScience/wk_04/plots/NDH of 160 Samples.png  used on input line 231.
 (pdftex.def)             Requested size: 242.61894pt x 181.96432pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 217--220
+Underfull \hbox (badness 10000) in paragraph at lines 236--239
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 221--224
+Underfull \hbox (badness 10000) in paragraph at lines 240--243
 
  []
 
-<C:/GitHub/DataScience/wk_04/plots/PDFHistogram 10 Samples.png, id=34, 462.528pt x 346.896pt>
+<C:/GitHub/DataScience/wk_04/plots/PDFHistogram 10 Samples.png, id=40, 462.528pt x 346.896pt>
 File: C:/GitHub/DataScience/wk_04/plots/PDFHistogram 10 Samples.png Graphic file (type png)
 <use C:/GitHub/DataScience/wk_04/plots/PDFHistogram 10 Samples.png>
-Package pdftex.def Info: C:/GitHub/DataScience/wk_04/plots/PDFHistogram 10 Samples.png  used on input line 232.
+Package pdftex.def Info: C:/GitHub/DataScience/wk_04/plots/PDFHistogram 10 Samples.png  used on input line 251.
 (pdftex.def)             Requested size: 236.35544pt x 177.26926pt.
-<C:/GitHub/DataScience/wk_04/plots/PDFHistogram 20 Samples.png, id=35, 462.528pt x 346.896pt>
+<C:/GitHub/DataScience/wk_04/plots/PDFHistogram 20 Samples.png, id=41, 462.528pt x 346.896pt>
 File: C:/GitHub/DataScience/wk_04/plots/PDFHistogram 20 Samples.png Graphic file (type png)
 <use C:/GitHub/DataScience/wk_04/plots/PDFHistogram 20 Samples.png>
-Package pdftex.def Info: C:/GitHub/DataScience/wk_04/plots/PDFHistogram 20 Samples.png  used on input line 237.
+Package pdftex.def Info: C:/GitHub/DataScience/wk_04/plots/PDFHistogram 20 Samples.png  used on input line 256.
 (pdftex.def)             Requested size: 236.35544pt x 177.26926pt.
-<C:/GitHub/DataScience/wk_04/plots/PDFHistogram 40 Samples.png, id=36, 462.528pt x 346.896pt>
+<C:/GitHub/DataScience/wk_04/plots/PDFHistogram 40 Samples.png, id=42, 462.528pt x 346.896pt>
 File: C:/GitHub/DataScience/wk_04/plots/PDFHistogram 40 Samples.png Graphic file (type png)
 <use C:/GitHub/DataScience/wk_04/plots/PDFHistogram 40 Samples.png>
-Package pdftex.def Info: C:/GitHub/DataScience/wk_04/plots/PDFHistogram 40 Samples.png  used on input line 243.
+Package pdftex.def Info: C:/GitHub/DataScience/wk_04/plots/PDFHistogram 40 Samples.png  used on input line 262.
 (pdftex.def)             Requested size: 236.35544pt x 177.26926pt.
 
 
 
 
-[4 <C:/GitHub/DataScience/wk_04/plots/NDH of 160 Samples.png> <C:/GitHub/DataScience/wk_04/plots/PDFHistogram 10 Samples.png> <C:/GitHub/DataScience/wk_04/plots/PDFHistogram 20 Samples.png> <C:/GitHub/DataScience/wk_04/plots/PDFHistogram 40 Samples.png>]
-<C:/GitHub/DataScience/wk_04/plots/PDFHistogram 80 Samples.png, id=44, 462.528pt x 346.896pt>
+[6 <C:/GitHub/DataScience/wk_04/plots/NDH of 160 Samples.png> <C:/GitHub/DataScience/wk_04/plots/PDFHistogram 10 Samples.png> <C:/GitHub/DataScience/wk_04/plots/PDFHistogram 20 Samples.png> <C:/GitHub/DataScience/wk_04/plots/PDFHistogram 40 Samples.png>]
+<C:/GitHub/DataScience/wk_04/plots/PDFHistogram 80 Samples.png, id=50, 462.528pt x 346.896pt>
 File: C:/GitHub/DataScience/wk_04/plots/PDFHistogram 80 Samples.png Graphic file (type png)
 <use C:/GitHub/DataScience/wk_04/plots/PDFHistogram 80 Samples.png>
-Package pdftex.def Info: C:/GitHub/DataScience/wk_04/plots/PDFHistogram 80 Samples.png  used on input line 254.
+Package pdftex.def Info: C:/GitHub/DataScience/wk_04/plots/PDFHistogram 80 Samples.png  used on input line 273.
 (pdftex.def)             Requested size: 236.35544pt x 177.26926pt.
-<C:/GitHub/DataScience/wk_04/plots/PDFHistogram 160 Samples.png, id=45, 462.528pt x 346.896pt>
+<C:/GitHub/DataScience/wk_04/plots/PDFHistogram 160 Samples.png, id=51, 462.528pt x 346.896pt>
 File: C:/GitHub/DataScience/wk_04/plots/PDFHistogram 160 Samples.png Graphic file (type png)
 <use C:/GitHub/DataScience/wk_04/plots/PDFHistogram 160 Samples.png>
-Package pdftex.def Info: C:/GitHub/DataScience/wk_04/plots/PDFHistogram 160 Samples.png  used on input line 260.
+Package pdftex.def Info: C:/GitHub/DataScience/wk_04/plots/PDFHistogram 160 Samples.png  used on input line 279.
 (pdftex.def)             Requested size: 236.35544pt x 177.26926pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 273--275
+Underfull \hbox (badness 10000) in paragraph at lines 292--294
 
  []
 
 
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 288--290
+Underfull \hbox (badness 10000) in paragraph at lines 307--309
 
  []
 
-<C:/GitHub/DataScience/wk_04/plots/EffectSizeIterations.png, id=46, 462.528pt x 346.896pt>
+<C:/GitHub/DataScience/wk_04/plots/EffectSizeIterations.png, id=52, 462.528pt x 346.896pt>
 File: C:/GitHub/DataScience/wk_04/plots/EffectSizeIterations.png Graphic file (type png)
 <use C:/GitHub/DataScience/wk_04/plots/EffectSizeIterations.png>
-Package pdftex.def Info: C:/GitHub/DataScience/wk_04/plots/EffectSizeIterations.png  used on input line 298.
+Package pdftex.def Info: C:/GitHub/DataScience/wk_04/plots/EffectSizeIterations.png  used on input line 317.
 (pdftex.def)             Requested size: 242.61894pt x 181.96432pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 303--305
+Underfull \hbox (badness 10000) in paragraph at lines 322--324
 
  []
 
-<C:/GitHub/DataScience/wk_04/plots/HistogramSample.png, id=47, 462.528pt x 346.896pt>
+<C:/GitHub/DataScience/wk_04/plots/HistogramSample.png, id=53, 462.528pt x 346.896pt>
 File: C:/GitHub/DataScience/wk_04/plots/HistogramSample.png Graphic file (type png)
 <use C:/GitHub/DataScience/wk_04/plots/HistogramSample.png>
-Package pdftex.def Info: C:/GitHub/DataScience/wk_04/plots/HistogramSample.png  used on input line 317.
+Package pdftex.def Info: C:/GitHub/DataScience/wk_04/plots/HistogramSample.png  used on input line 336.
 (pdftex.def)             Requested size: 121.30946pt x 90.9795pt.
 
 
-[5 <C:/GitHub/DataScience/wk_04/plots/PDFHistogram 80 Samples.png> <C:/GitHub/DataScience/wk_04/plots/PDFHistogram 160 Samples.png> <C:/GitHub/DataScience/wk_04/plots/EffectSizeIterations.png> <C:/GitHub/DataScience/wk_04/plots/HistogramSample.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 325--327
+[7 <C:/GitHub/DataScience/wk_04/plots/PDFHistogram 80 Samples.png> <C:/GitHub/DataScience/wk_04/plots/PDFHistogram 160 Samples.png> <C:/GitHub/DataScience/wk_04/plots/EffectSizeIterations.png> <C:/GitHub/DataScience/wk_04/plots/HistogramSample.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 344--346
 
  []
 
-<C:/GitHub/DataScience/wk_04/plots/HistogramIterations.png, id=56, 462.528pt x 346.896pt>
+<C:/GitHub/DataScience/wk_04/plots/HistogramIterations.png, id=63, 462.528pt x 346.896pt>
 File: C:/GitHub/DataScience/wk_04/plots/HistogramIterations.png Graphic file (type png)
 <use C:/GitHub/DataScience/wk_04/plots/HistogramIterations.png>
-Package pdftex.def Info: C:/GitHub/DataScience/wk_04/plots/HistogramIterations.png  used on input line 334.
+Package pdftex.def Info: C:/GitHub/DataScience/wk_04/plots/HistogramIterations.png  used on input line 353.
 (pdftex.def)             Requested size: 242.61894pt x 181.96432pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 340--343
+Underfull \hbox (badness 10000) in paragraph at lines 359--362
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 344--347
+Underfull \hbox (badness 10000) in paragraph at lines 363--366
 
  []
 
 File: C:/GitHub/DataScience/wk_04/plots/HistogramSample.png Graphic file (type png)
 <use C:/GitHub/DataScience/wk_04/plots/HistogramSample.png>
-Package pdftex.def Info: C:/GitHub/DataScience/wk_04/plots/HistogramSample.png  used on input line 359.
+Package pdftex.def Info: C:/GitHub/DataScience/wk_04/plots/HistogramSample.png  used on input line 378.
 (pdftex.def)             Requested size: 242.61894pt x 181.96432pt.
 
 
 
 
-[6 <C:/GitHub/DataScience/wk_04/plots/HistogramIterations.png>]
+[8 <C:/GitHub/DataScience/wk_04/plots/HistogramIterations.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 423--426
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 427--431
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 432--436
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 437--440
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 441--444
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 445--447
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 449--452
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 453--456
+
+ []
 
 
 
-[7
 
-] (Lab_4_JIC.aux)
+Underfull \hbox (badness 10000) in paragraph at lines 459--461
+\OMS/cmsy/m/n/10 ^^@\OT1/cmr/m/n/10 1\OML/cmm/m/it/10 :\OT1/cmr/m/n/10 8950644177598832$ and $1\OML/cmm/m/it/10 :\OT1/cmr/m/n/10 7796939547361557$
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 467--469
+
+ []
+
+
+
+[9] (Lab_4_JIC.aux)
  ***********
 LaTeX2e <2024-11-01> patch level 1
 L3 programming layer <2024-12-25>
  ***********
  ) 
 Here is how much of TeX's memory you used:
- 2197 strings out of 473536
- 41506 string characters out of 5712536
- 442532 words of memory out of 5000000
- 25427 multiletter control sequences out of 15000+600000
+ 2204 strings out of 473536
+ 41638 string characters out of 5712536
+ 444532 words of memory out of 5000000
+ 25431 multiletter control sequences out of 15000+600000
  563595 words of font info for 52 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  57i,11n,65p,261b,282s stack positions out of 10000i,1000n,20000p,200000b,200000s
  <C:\Users\chowdhuryj\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1000.pk><C:/Users/chowdhuryj/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Users/chowdhuryj/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/chowdhuryj/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/chowdhuryj/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/chowdhuryj/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/chowdhuryj/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Users/chowdhuryj/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Users/chowdhuryj/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/chowdhuryj/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy7.pfb><C:/Users/chowdhuryj/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
-Output written on Lab_4_JIC.pdf (7 pages, 425673 bytes).
+Output written on Lab_4_JIC.pdf (9 pages, 433145 bytes).
 PDF statistics:
- 114 PDF objects out of 1000 (max. 8388607)
+ 120 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  81 words of extra memory for PDF output out of 10000 (max. 10000000)
 

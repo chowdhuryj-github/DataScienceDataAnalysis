@@ -7,21 +7,28 @@
 \usepackage{tabularx} 
 
 \title{Simulation Experiments}
-\author{Salvin Chwodhury} 
+\author{Salvin Chowdhury} 
 \date{\today}   
 
 \begin{document}
 
-% Optional: reduce space around figures
-\setlength{\intextsep}{0pt}  % Reduce space above and below figures
-\setlength{\textfloatsep}{5pt} % Reduce space between text and figures
+\setlength{\intextsep}{0pt} 
+\setlength{\textfloatsep}{5pt} 
 
 \maketitle
+% Switch to one column for the table of contents
+\onecolumn
+\tableofcontents
+\newpage
+
+% Switch back to two columns for the rest of the document
+\twocolumn
+
 
 \section{Introduction}
 The purpose of this paper is to experiment with the implications of sampling from a probability distribution. 
 We start by importing, defining, evaluating, and plotting a single normal distribution. We then sample this 
-distribution and analyze the relationships and trends related to sample size.
+distribution and analyze the relationships and trends related to sample size. \\
 
 Additionally, we examine the effects of stochastic sampling, where we explore type I errors (false positives) and
  type II errors (false negatives). Finally, we use bootstrapping to estimate the confidence interval for the median 
@@ -39,7 +46,7 @@ observations, all of which are floating-point numbers that can be either positiv
 \subsection{Dataset Summary Statistics}
 Referring to the \texttt{dataset.csv} file, we examined summary statistics by converting it into a \texttt{pandas}
 dataframe and using \texttt{.info()} and \texttt{.describe()}. Using both of these methods, we obtained the 
-following summary statisitcs below. 
+following summary statisitcs below. \\
 
 \begin{table}[htbp]
     \centering
@@ -62,6 +69,18 @@ following summary statisitcs below.
 \end{table}
 
 \section{Methods}
+
+\subsection{Sampling \& Plotting}
+In this paper, we look into different methods of sampling and plotting graphs. We start the paper by plotting a 
+normal distribution, and we deep further into this distribution by looking into the probability density function, 
+cumulative denstiy function and the inverse of the cumulative distribution function. \\
+
+With regards to sampling, we take a increasing range of the sample for creating a normal distribution, and plot 
+a histogram over them. To get a deeper understanding, we combine this with a probability density function. \\
+
+Such sampling and plotting methods are used to gain an understanding on how Type I and Type II errors work, as well
+as how the bootstrapping process occurs. We analyze the plots we create and derive conclusions and observations, as 
+we will see in the sections below. 
 
 \section{Results}
 
@@ -362,7 +381,7 @@ where the blue represents the Sample One and the orange represents the Sample Tw
 
 \section{Discussion}
 We now discuss our findings and conclude everything. We discuss with regards to our tehcniques and some of the
-observations that we have deduced with the data we produced and analyzed
+observations that we have deduced with the data we produced and analyzed.
 
 \subsection{Sampling and Normal Distribution}
 When we generated our sample values, we found the mean and normal distribution to be approximately zero, 
@@ -401,18 +420,56 @@ We then calculated the effect size of those two sample groups, and these are the
     \item Estimated Effect Size:  $0.0324$
 \end{itemize}
 
+We calculated the effect size by first taking the mean of both random samples. We achieve this by taking the sum of 
+all values in both both samples and dividing the length of the number of values in those samples. We then found the 
+difference between the mean of both values and took the absolute value of the end result. \\
 
+When we look at these effect sizes in detail, we can find the maximum observed sizes, which appears to be 
+$0.27305463084432374$. Interestingly enough, when we graph the histograms of the largest effect size of 
+two samples, we can see that the histograms have a bimodal shape. This could mean that for each sample, since there 
+are two distinct peaks, the samples may be clustered around two different values. \\
 
+One could deduce that since the bimodal peaks in the histograms appeared in a single trial of a experimental data set
+for the maximum observed sizes, this may mean that the data is coming from two different groups. As a result, we can 
+conclude that unless there were errors, the two peaks may indicate that there are either two subgroups, or there may 
+have been a sampling error. \\
 
+Next, we can look at the minimum observed sizes, which appears to be $0.8241537033428362$. We calculated the expected
+effect size in the same way as previously mentioned, where we found the mean of both samples and took the absolute 
+value of the difference between them. \\
 
+When we plotted out the histogram of the smallest effect size of the two samples, we see that there is a singular peak,
+hence making the histogram unimodal. Furthermore, since the peaks are centered, we can say that there is no skew. As a 
+result, this may suggest that most of the data points are around a central value. \\
 
+Given the appearance of the histogram and establishing the fact that the histogram has a single peak, we can conclude 
+that there is normal distribution. \\
 
+\subsection{A Journey into Bootstrapping}
+Using the dataset from \texttt{data.csv}, we looked into three variables, which have 500 observations. For each of
+these variables, we used a for loop of 1,000 iterations to randomly sample the 500 values. We then computed the median
+of the resampled data and store the median. \\
 
+After 1,000 iterations, we had 1,000 median values for each variable. We sorted these median values in ascending 
+order. Next, we found the 25th value and the 975th value. These values tell us the range within which the true median
+is likely to fall 95\% of the time. \\
 
+As a result, we were able to obtain the confidence intervals, and this is how we interpreted it:
+\begin{itemize}
+    \item Confidence Interval 1: the true value lies between $-1.8950644177598832$ and $1.7796939547361557$ with 
+    95\% confidence
+    \item Confidence Interval 2: the true value lies between $-1.0887132842610687$ and $2.704221427374523$ with 
+    95\% confidence
+    \item Confidence Interval 3: the true value lies between $-1.1190463112205178$ and $3.09774608084418$ with 
+    95\% confidence
+\end{itemize}
 
+When we look at these findings, it means that the true value lies between the stated lower and upper bounds, and we
+can declare that with 95\% confidence. \\
 
-
-
+Looking further into confidence intervals, there are things we can deduce about the median. Since the confidence
+intervals for all three overlap over each other, this may suggest that there is a possibility that the true medians
+for the three variables are very similar. 
 
 
 \end{document}

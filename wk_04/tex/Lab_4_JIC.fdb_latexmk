@@ -1,5 +1,5 @@
 # Fdb version 4
-["pdflatex"] 1739850864.08535 "c:/GitHub/DataScience/wk_04/tex/Lab_4_JIC.tex" "Lab_4_JIC.pdf" "Lab_4_JIC" 1739850866.19558 0
+["pdflatex"] 1739855436.03881 "c:/GitHub/DataScience/wk_04/tex/Lab_4_JIC.tex" "Lab_4_JIC.pdf" "Lab_4_JIC" 1739855438.0786 0
   "C:/GitHub/DataScience/wk_04/plots/CDFNormalDistribution.png" 1739849018 20658 7807e8dd417d9e8a07e9165d8390122c ""
   "C:/GitHub/DataScience/wk_04/plots/EffectSizeIterations.png" 1739849026 15495 a2ee68a887ae6a0e2df3c80db8173c42 ""
   "C:/GitHub/DataScience/wk_04/plots/HistogramIterations.png" 1739849028 12677 976da281678b28ab625589d20708dd2b ""
@@ -62,11 +62,13 @@
   "C:/Users/chowdhuryj/AppData/Local/Programs/MiKTeX/tex/latex/l3backend/l3backend-pdftex.def" 1716480499 29785 9f93ab201fe5dd053afcc6c1bcf7d266 ""
   "C:/Users/chowdhuryj/AppData/Local/Programs/MiKTeX/tex/latex/tools/array.sty" 1730400552 14552 27664839421e418b87f56fa4c6f66b1a ""
   "C:/Users/chowdhuryj/AppData/Local/Programs/MiKTeX/tex/latex/tools/tabularx.sty" 1730400552 7243 e5dac1240636811edb77568b81818372 ""
-  "Lab_4_JIC.aux" 1739850865 5639 f0f61f219984a1d97485b7f64915a94c "pdflatex"
-  "Lab_4_JIC.tex" 1739850863 20348 54aef24727b538c89387d9b7b97ddf53 ""
-  "c:/GitHub/DataScience/wk_04/tex/Lab_4_JIC.tex" 1739850863 20348 54aef24727b538c89387d9b7b97ddf53 ""
+  "Lab_4_JIC.aux" 1739855437 5873 8564ca6c5e4cf735892738863165a960 "pdflatex"
+  "Lab_4_JIC.tex" 1739855435 24726 d8fd1cfac021f5e6fa5416de51d42a94 ""
+  "Lab_4_JIC.toc" 1739855437 2130 f09d2cbad109b4b85b5efdd1a39c01ae "pdflatex"
+  "c:/GitHub/DataScience/wk_04/tex/Lab_4_JIC.tex" 1739855435 24726 d8fd1cfac021f5e6fa5416de51d42a94 ""
   (generated)
   "Lab_4_JIC.aux"
   "Lab_4_JIC.log"
   "Lab_4_JIC.pdf"
+  "Lab_4_JIC.toc"
   (rewritten before read)
