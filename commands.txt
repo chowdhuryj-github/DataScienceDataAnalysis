@@ -1,4 +1,4 @@
-html-minifier --collapse-whitespace --remove-comments --minify-js true --minify-css true input.html -o output.min.html
+html-minifier --collapse-whitespace --remove-comments --minify-js true --minify-css true Lab_4_JIC.html -o output.min.html
 
 
 1. Introduction
