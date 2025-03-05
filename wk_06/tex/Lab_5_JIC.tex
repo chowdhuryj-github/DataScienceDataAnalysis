@@ -5,7 +5,6 @@
 \usepackage{amsmath}
 \usepackage{booktabs}
 
-
 \title{Hypothesis Testing}
 \author{Jawadul Chowdhury}
 \date{\today}
@@ -269,6 +268,16 @@ and countries that have a high infant mortality rate have a low life expectancy.
     \caption{Scatterplot of Life Expectancy vs Infant Mortality} 
 \end{figure}
 
+Moreover, we can draw a best fit line over the scatter plot to demonstrate the linear relationship as shown below in
+figure 5.
+
+\begin{figure}[htbp] 
+    \centering
+    \includegraphics[width=\columnwidth]{C:/GitHub/DataScience/wk_06/plots/ScatterPlotWithFitLine.png}
+    \caption{Scatterplot of Life Expectancy vs Infant Mortality with Best Fit Line} 
+\end{figure}
+
+
 
 \section{Discussion}
 In this last section, we would like to discuss some of the work that has been done in the paper, as well as what
@@ -294,6 +303,88 @@ t-test, which is outlined in the following bullet points:
     \item $H_0$: the mean of the life expectancy in Europe is the same as the value of M
     \item $H_1$: the mean of the life expectancy in Europe isn't the same as the value of M
 \end{itemize}
+
+With the null and alternative hypothesis being set, we move on to the p-value. As we look at equation 3, it can be
+seen that we find the probability $P ( \left| t \right|)$ that the test statistic t falls under the observed range
+under the null hypothesis. Due to the presence of the absolute value symbol, we can tell that this is for a two 
+tailed test, as we account for both tails of the probability distribution.
+
+Next, we perform the calculations where M = 70 \& M = 76. We get the following test statistic and p-values as such:
+\begin{itemize}
+    \raggedright
+    \item The test statistic value for Life Expectancy of 70: 9.938016169764737 
+    \item The p value for Life Expectancy of 70: 1.760564922569916e-12 
+    \item The test statistic value for Life Expectancy of 76: 1.1814424817202844 
+    \item The p value for Life Expectancy of 76: 0.24423470312189977 
+\end{itemize}
+
+Given the following test statistic and p-values, we set the signifigance level at 0.05. With this in mind, there are 
+a few key takeaways:
+\begin{itemize}
+    \item For age 70, the p value is 1.76e-12, which is smaller than 0.05, so we reject the null hypothesis
+    \item For age 76, the p value is 0.24, which is larger than 0.05, so we fail to reject the null hypothesis
+\end{itemize}
+
+Lastly, we wanted to cross-check if our custom function produced the same results as the one from 
+\texttt{scipy.stats}. As per the Jupyter Notebook, the function matched the results from \texttt{scipy.stats}.
+
+
+\subsection{The Two Sample t-test}
+For our second hypothesis test, we conducted a two sample t-test. For this test, we set up our null and alternative
+hypothesis as follows:
+\begin{itemize}
+    \item $H_0$: the mean of the life expectancy is equal in both Europe \& Asia
+    \item $H_1$: the mean of the life expectancy is not equal in both Europe \& Asia
+\end{itemize}
+
+We performed the calculations, and we get the following test statistic and p-value as such:
+\begin{itemize}
+    \item The test statistic value of Life Expectancy in Europe vs Asia:  -5.884174172667128 
+    \item The p value of Life Expectancy of Europe vs Asia:  1.0064936417641945e-07
+\end{itemize}
+
+For this experiment, we set our signifigance value to 0.05, which means that since the p-value is less than the 
+signifigance level, this means we can reject the null hypothesis. As a result, this means we reject the null
+hypothesis. As a result, this means that the life expectancy in Europe is signifiantly different than in Asia.
+
+Lastly, we wanted to cross-check if our custom function produced the same results as the one from 
+\texttt{scipy.stats}. As per the Jupyter Notebook, the function matched the results from \texttt{scipy.stats}.
+
+\subsection{Pearson's Correlation}
+For our third hypothesis test, we conducted person's correlation. For this test, we set up our null and alternative
+hypothesis as follows:
+\begin{itemize}
+    \item $H_0$: there is no correlation between the life expectancy and infant mortality rate
+    \item $H_1$: there is a strong correlation between the life expectancy and infant mortality rate
+\end{itemize}
+
+
+We performed the calculations, and we get the following test statistics and p-value as such:
+\begin{itemize}
+    \item The Pearson Coefficient:  -0.9255371904433326
+    \item The Test Statistic:  -33.7804082017176  
+    \item The P Value:  0.0
+\end{itemize}
+
+For this experiment, we set our signifigance value to 0.05, which means that since the p-value is less than The
+signifigance level, we reject the null hypothesis. This relationship is a linear relationship because we
+are able to draw a best fit line as shown in Figure 5. 
+
+Lastly, we would like to compare the results derived from the function we made and the \texttt{lingress} method from
+\texttt{scipy.stats}. Adding on to the caluclations we performed, here are the results we obtained from using the 
+\texttt{lingress} function:
+
+\begin{itemize}
+    \item The Pearson Coefficient:  -0.9255371904433327  
+    \item The P Value:  1.733832757295465e-82
+\end{itemize}
+
+When we compare the values, we can see that the pearson coefficients are equal. Although the \texttt{linegress}
+function doesn't return a test statistic, we can see that the p-values are different. However, we can conlude that
+both p-values from the function and the \texttt{lingress} is similar because 1.733832757295465e-82 is basically 
+estimated as 0.
+
+\subsection{Further Reading}
 
 
 
