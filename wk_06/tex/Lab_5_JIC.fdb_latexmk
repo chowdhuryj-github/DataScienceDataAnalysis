@@ -1,5 +1,9 @@
 # Fdb version 4
-["pdflatex"] 1741134030.24625 "c:/GitHub/DataScience/wk_06/tex/Lab_5_JIC.tex" "Lab_5_JIC.pdf" "Lab_5_JIC" 1741134031.17366 0
+["pdflatex"] 1741137848.76186 "c:/GitHub/DataScience/wk_06/tex/Lab_5_JIC.tex" "Lab_5_JIC.pdf" "Lab_5_JIC" 1741137849.91951 0
+  "C:/GitHub/DataScience/wk_06/plots/BoxPlotLifeExpEU.png" 1741129160 18140 dd3331299ab5f72ea217d89d0d10131c ""
+  "C:/GitHub/DataScience/wk_06/plots/GNI_PC.png" 1741129159 17217 9c1817e0ce71005dacdee59cb58e666d ""
+  "C:/GitHub/DataScience/wk_06/plots/ScatterPlot.png" 1741129161 48457 81604f7c814eae3f1342101dd1bb98b0 ""
+  "C:/GitHub/DataScience/wk_06/plots/ViolinPlotLifeExpEUAS.png" 1741129161 31545 ba38823f15c168bbbb7fd356dcec942a ""
   "C:/Users/chowdhuryj/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1740021619 82507 a9eef8696c92627b87e9975edea03b2a ""
   "C:/Users/chowdhuryj/AppData/Local/MiKTeX/fonts/pk/ljfour/jknappen/ec/dpi600/tcrm1000.pk" 1739155089 11548 f49887ef89b7ed0788c6124f7adb9cf1 ""
   "C:/Users/chowdhuryj/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1737942959 12015813 cd1a156d53829aef9f4414cbc622121f ""
@@ -55,10 +59,10 @@
   "C:/Users/chowdhuryj/AppData/Local/Programs/MiKTeX/tex/latex/graphics/keyval.sty" 1730544106 2671 70891d50dac933918b827d326687c6e8 ""
   "C:/Users/chowdhuryj/AppData/Local/Programs/MiKTeX/tex/latex/graphics/trig.sty" 1730544106 4023 2c9f39712cf7b43d3eb93a8bbd5c8f67 ""
   "C:/Users/chowdhuryj/AppData/Local/Programs/MiKTeX/tex/latex/l3backend/l3backend-pdftex.def" 1716480499 29785 9f93ab201fe5dd053afcc6c1bcf7d266 ""
-  "Lab_5_JIC.aux" 1741134030 1068 d3eb960db67be858b959952082d605b2 "pdflatex"
-  "Lab_5_JIC.tex" 1741134029 7539 97a0f486b1b8c0eb9da61606ac5d80e3 ""
-  "Lab_5_JIC.toc" 1741134030 395 8d11379e0065cf5e40ef46911e0df56e "pdflatex"
-  "c:/GitHub/DataScience/wk_06/tex/Lab_5_JIC.tex" 1741134029 7539 97a0f486b1b8c0eb9da61606ac5d80e3 ""
+  "Lab_5_JIC.aux" 1741137849 2622 e786b4cb245b40c8f6d5dd35085a8b03 "pdflatex"
+  "Lab_5_JIC.tex" 1741137847 13292 91d0e75bc992ac38d4ba0782b65c8cea ""
+  "Lab_5_JIC.toc" 1741137849 1045 955ee1eac740525c5740d7bc212b6e68 "pdflatex"
+  "c:/GitHub/DataScience/wk_06/tex/Lab_5_JIC.tex" 1741137847 13292 91d0e75bc992ac38d4ba0782b65c8cea ""
   (generated)
   "Lab_5_JIC.aux"
   "Lab_5_JIC.log"

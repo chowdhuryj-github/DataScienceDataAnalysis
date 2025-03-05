@@ -4,3 +4,11 @@
 \contentsline {subsection}{\numberline {2.1}One Sample t-test}{3}{}%
 \contentsline {subsection}{\numberline {2.2}Two Sample t-test}{3}{}%
 \contentsline {subsection}{\numberline {2.3}Pearson's Correlation}{4}{}%
+\contentsline {section}{\numberline {3}Results}{4}{}%
+\contentsline {subsection}{\numberline {3.1}Histogram of Gross National Income}{4}{}%
+\contentsline {subsection}{\numberline {3.2}Boxplot of Life Expectancy in the European Region}{4}{}%
+\contentsline {subsection}{\numberline {3.3}Violin Plot of Life Expectancy in Europe \& Asia}{5}{}%
+\contentsline {subsection}{\numberline {3.4}Scatterplot of Life Expectancy vs Infant Mortality}{5}{}%
+\contentsline {section}{\numberline {4}Discussion}{5}{}%
+\contentsline {subsection}{\numberline {4.1}The Gross National Income}{5}{}%
+\contentsline {subsection}{\numberline {4.2}The One Sample t-test}{5}{}%

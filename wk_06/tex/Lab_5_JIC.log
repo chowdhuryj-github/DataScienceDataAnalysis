@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2025.1.26)  4 MAR 2025 18:20
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2025.1.26)  4 MAR 2025 19:24
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -241,28 +241,51 @@ File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 
 ]
 
+<C:/GitHub/DataScience/wk_06/plots/GNI_PC.png, id=25, 462.528pt x 346.896pt>
+File: C:/GitHub/DataScience/wk_06/plots/GNI_PC.png Graphic file (type png)
+<use C:/GitHub/DataScience/wk_06/plots/GNI_PC.png>
+Package pdftex.def Info: C:/GitHub/DataScience/wk_06/plots/GNI_PC.png  used on input line 203.
+(pdftex.def)             Requested size: 242.61894pt x 181.96432pt.
+<C:/GitHub/DataScience/wk_06/plots/BoxPlotLifeExpEU.png, id=27, 722.7pt x 505.89pt>
+File: C:/GitHub/DataScience/wk_06/plots/BoxPlotLifeExpEU.png Graphic file (type png)
+<use C:/GitHub/DataScience/wk_06/plots/BoxPlotLifeExpEU.png>
+Package pdftex.def Info: C:/GitHub/DataScience/wk_06/plots/BoxPlotLifeExpEU.png  used on input line 223.
+(pdftex.def)             Requested size: 242.61894pt x 169.8312pt.
 
 
-[4
+[4 <C:/GitHub/DataScience/wk_06/plots/GNI_PC.png> <C:/GitHub/DataScience/wk_06/plots/BoxPlotLifeExpEU.png>]
+<C:/GitHub/DataScience/wk_06/plots/ViolinPlotLifeExpEUAS.png, id=33, 462.528pt x 346.896pt>
+File: C:/GitHub/DataScience/wk_06/plots/ViolinPlotLifeExpEUAS.png Graphic file (type png)
+<use C:/GitHub/DataScience/wk_06/plots/ViolinPlotLifeExpEUAS.png>
+Package pdftex.def Info: C:/GitHub/DataScience/wk_06/plots/ViolinPlotLifeExpEUAS.png  used on input line 246.
+(pdftex.def)             Requested size: 242.61894pt x 181.96432pt.
+<C:/GitHub/DataScience/wk_06/plots/ScatterPlot.png, id=34, 462.528pt x 346.896pt>
+File: C:/GitHub/DataScience/wk_06/plots/ScatterPlot.png Graphic file (type png)
+<use C:/GitHub/DataScience/wk_06/plots/ScatterPlot.png>
+Package pdftex.def Info: C:/GitHub/DataScience/wk_06/plots/ScatterPlot.png  used on input line 268.
+(pdftex.def)             Requested size: 242.61894pt x 181.96432pt.
 
-] (Lab_5_JIC.aux)
+
+
+
+[5 <C:/GitHub/DataScience/wk_06/plots/ViolinPlotLifeExpEUAS.png> <C:/GitHub/DataScience/wk_06/plots/ScatterPlot.png>] (Lab_5_JIC.aux)
  ***********
 LaTeX2e <2024-11-01> patch level 1
 L3 programming layer <2024-12-25>
  ***********
  ) 
 Here is how much of TeX's memory you used:
- 2669 strings out of 473536
- 41578 string characters out of 5712536
+ 2699 strings out of 473536
+ 43268 string characters out of 5712536
  454049 words of memory out of 5000000
- 25884 multiletter control sequences out of 15000+600000
+ 25914 multiletter control sequences out of 15000+600000
  564723 words of font info for 57 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  57i,8n,65p,261b,228s stack positions out of 10000i,1000n,20000p,200000b,200000s
  <C:\Users\chowdhuryj\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1000.pk><C:/Users/chowdhuryj/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Users/chowdhuryj/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/chowdhuryj/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Users/chowdhuryj/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/chowdhuryj/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi7.pfb><C:/Users/chowdhuryj/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/chowdhuryj/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/chowdhuryj/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Users/chowdhuryj/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr5.pfb><C:/Users/chowdhuryj/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Users/chowdhuryj/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/chowdhuryj/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy7.pfb><C:/Users/chowdhuryj/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
-Output written on Lab_5_JIC.pdf (4 pages, 164959 bytes).
+Output written on Lab_5_JIC.pdf (5 pages, 269996 bytes).
 PDF statistics:
- 85 PDF objects out of 1000 (max. 8388607)
+ 97 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 21 words of extra memory for PDF output out of 10000 (max. 10000000)
 

@@ -111,7 +111,7 @@ the t-distribution.
 Lastly, we would like to visualize this. Since we're comparing a numerical variable against a fixed number, it would
 be fitting to use a boxplot to help data spread, as this includes the mean, median, lower and upper quartile as well
 as any potential outliers. We apply this plotting to the life expectancy of Europe as will be seen in the results
-section.
+section in Figure 2.
 
 \subsection{Two Sample t-test}
 A two-sample t-test is meant to compare a numerical variable against a categorical variable, as the goal is to assess
@@ -148,7 +148,7 @@ freedom.
 
 Lastly, we would like to visualize this. Since we're comparing a numerical variable against a categorical variable,
 it would make the most sense to use a violin plot. In the results section, we will create a violin plot of the life 
-expetancy in Europe vs in Asia.
+expetancy in Europe vs in Asia, as shown in Figure 3 in the Results section.
 
 \subsection{Pearson's Correlation}
 The Pearson's Correlation is meant to compare a numerical variale against another numerical variable. We use this to
@@ -183,7 +183,119 @@ as specified in equation 3.
 
 Lastly, we would like to visualize this. Since we're comparing a numerical variable against another numerical 
 variable, it would make the most sense to plot a scatter plot. In the results section, we will create a scatter plot
-of the life expectancy vs the infant mortality across the entire dataset. 
+of the life expectancy vs the infant mortality across the entire dataset, as shown in 4 of the Results section.
+
+
+\section{Results}
+In this section, we explore and analyze the graphs that have been created while performing the different types of
+hypothesis testing. 
+
+\subsection{Histogram of Gross National Income}
+As shown in Figure 1, we plotted a histogram of the gross national income across all countries in the world that are 
+tracked by the World Health Organization. We can observe that the histogram is unimodal and has a right skew. It can
+be observed that the mode, median and mean is somewhere between 0 to 10000.
+
+It is also worth noting that there is a peak between 30000 and 40000, however, it might the peak is not high enough
+to consider that the histogram is bimodal. 
+
+\begin{figure}[htbp] 
+    \centering
+    \includegraphics[width=\columnwidth]{C:/GitHub/DataScience/wk_06/plots/GNI_PC.png}
+    \caption{Histogram of Gross National Income} 
+\end{figure}
+
+
+\subsection{Boxplot of Life Expectancy in the European Region}
+As shown in Figure 2, we plotted a box plot of the life expectancy in the European region. The reason we chose a
+box plot is because we're comparing a numerical variable against a fixed number, which is 70 and 76. From this box
+plot, we can observe the following summary statistic:
+
+\begin{itemize}
+    \item The Lowest Age: 66
+    \item The Highest Age: 82
+    \item The Lower Quartile: somwhere between 72 and 74
+    \item The Upper Quartile: somewhere between 78 and 80
+    \item The Median Age: almost around 78
+\end{itemize}
+
+\begin{figure}[htbp] 
+    \centering
+    \includegraphics[width=\columnwidth]{C:/GitHub/DataScience/wk_06/plots/BoxPlotLifeExpEU.png}
+    \caption{Box Plot of Life Expectancy in Europe} 
+\end{figure}
+
+
+\subsection{Violin Plot of Life Expectancy in Europe \& Asia}
+As shown in Figure 3, we plotted a violin plot of the life expectancy in both Europe \& Asia. The reason we chose a 
+violin plot is because we're comparing a numerical variable against a categorical variable. From the violin plots,
+we can observe a number of things.
+
+\begin{itemize}
+    \item It can be seen that around the median, the width of the violin plot is wider, which indicates that there
+    are more data points concentrated in that range. 
+    \item A striking is difference is that the lowest life expectancy in Europe is somehwere near 60, however, in 
+    Asia, it can be as low as between 30 to 40.
+    \item The violin plot for Asia has a negative skew, while the violin plot for Europe has a symmetric distribution
+    \item It can be seen that Europe has a higher median than Asia, which suggests that the group has a higher
+    central value 
+\end{itemize}
+
+
+\begin{figure}[htbp] 
+    \centering
+    \includegraphics[width=\columnwidth]{C:/GitHub/DataScience/wk_06/plots/ViolinPlotLifeExpEUAS.png}
+    \caption{Violin of Life Expectancy in Europe \& Asia} 
+\end{figure}
+
+\subsection{Scatterplot of Life Expectancy vs Infant Mortality}
+As shown in Figure 4, we plotted a scatter plot of the life expectance vs the infant mortality rate around the world.
+The reason we chose a scatter plot is because we're comparing a numerical variable against another numerical 
+variable. 
+
+A look at the scatterplot will tell us a number of things:
+\begin{itemize}
+    \item There is a negative correlation, where as the life expectancy increases, the infant mortality rate decreases
+    \item If we were to draw a best fit line, we can see that there is a change in trend from the points being 
+    weakly clustered along the line to being strongly clustered as the life expectancy increases
+    \item We can deduce that there is a linear relationship between the life expectancy \& infant mortality rate
+\end{itemize}
+
+Overall, this suggests that countries that have a high life expectancy means they have low infant mortality rate,
+and countries that have a high infant mortality rate have a low life expectancy.
+
+\begin{figure}[htbp] 
+    \centering
+    \includegraphics[width=\columnwidth]{C:/GitHub/DataScience/wk_06/plots/ScatterPlot.png}
+    \caption{Scatterplot of Life Expectancy vs Infant Mortality} 
+\end{figure}
+
+
+\section{Discussion}
+In this last section, we would like to discuss some of the work that has been done in the paper, as well as what
+could've been done.
+
+\subsection{The Gross National Income}
+In figure 1, we created a histogram of the Gross National Income. As the shape of the distribution is right skewed 
+and unimodal, it is worth noting that there was a presence of missing values. We can deal with such missing values
+by performing imputations. The imputations can be done using a predictive model such as a KNN, or they can be filled
+by calculating the mean, median and mode. A good choice would be to use a KNN model simply because it considers the 
+relationships between variables.
+
+\subsection{The One Sample t-test}
+For our first hypothesis test, we conducted a one sample t-test. With regards to choosing the M value for our 
+experiments, we chose 70 and 76 years because although we didn't know what the life expectancy was, we would like 
+to see whether 70 or 76 would be a good estimate for determining what the mean age of the life expectancy is and how 
+close we were to being right.
+
+With regards to the value of M, it would make sense to set up a null and alternative hypothesis for the one sample
+t-test, which is outlined in the following bullet points:
+
+\begin{itemize}
+    \item $H_0$: the mean of the life expectancy in Europe is the same as the value of M
+    \item $H_1$: the mean of the life expectancy in Europe isn't the same as the value of M
+\end{itemize}
+
+
 
 
 \end{document}
