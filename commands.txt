@@ -1,6 +1,7 @@
-html-minifier --collapse-whitespace --remove-comments --minify-js true --minify-css true Lab_4_JIC.html -o output.min.html
+html-minifier --collapse-whitespace --remove-comments --minify-js true --minify-css true Lab_5_JIC.html -o output.min.html
 jupyter nbconvert --to script your_notebook.ipynb
 jupyter nbconvert --ClearOutputPreprocessor.enabled=True --to notebook --inplace Lab_5_JIC.ipynb
+jupyter nbconvert --to html Lab_5_JIC.ipynb
 
 
 1. Introduction

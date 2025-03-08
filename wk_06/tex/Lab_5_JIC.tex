@@ -385,7 +385,44 @@ both p-values from the function and the \texttt{lingress} is similar because 1.7
 estimated as 0.
 
 \subsection{Further Reading}
+Out of interest, we explored into the different hypothesis tests that statisticians use on a day to day basis. The 
+two addtional tests we looked into was the Kruskal-Wallis test and the $\chi^2$ test for independence. 
 
+\subsubsection{The Kruskal Wallis Test}
+For the Kruskal Wallis test, the most common use is when we have one nominal variable and one measurement variable.
+Since it is a non-parametric test, it means that it does not assume that the data comes from a distribution that can
+be completely described by two parameters, the mean and standard deviation. It also does not assume that the data 
+is normally distributed. 
+
+When we look at the null and alternative hypothesis, they are listed as follows:
+
+\begin{itemize}
+    \item $H_0$: the mean ranks of the groups are the same
+    \item $H_1$: atleast one of the mean ranks is different
+\end{itemize}
+
+Moreover, if the test did indicate statistical signifigance, it means there is enough evidence to reject the null 
+hypothesis. As a result, this means that the mean ranks of the groups are the same. Otherwise, if the tests did not 
+indicate statistical signifigance, then there not enough evidence to reject the null hypothesis. As a result, this
+means that there is atleast one or more mean rank that is different.
+
+\subsubsection{ $\chi^2$ Test For Independence}
+For the $\chi^2$ test for independence, the most common use is when we have two nominal variables, each with two or
+more possible values. A key assumption for this hypothesis test is that it assumes that the individual observations 
+are independent.
+
+When we look at the null and alternative hypothesis, they are listed as follows:
+
+\begin{itemize}
+    \item $H_0$: relative proportions of one variable are independent of the second variable
+    \item $H_1$: relative proportions of one variable are not independent of the second variable
+\end{itemize}
+
+Moreover, if the test did indicate statistical signifigance, it means there is enough evidence to reject the null 
+hypothesis. As a result, this means the relative proportions are not independent of the second variable. Otherwise,
+if the tests did not indicate statistical signifigance, then there is not enough evidence to reject the null
+hypothesis. As a result, this means that the relative proportions of one variable are independent of the second
+variable.
 
 
 

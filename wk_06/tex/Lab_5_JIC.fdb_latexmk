@@ -1,5 +1,5 @@
 # Fdb version 4
-["pdflatex"] 1741141933.24843 "c:/GitHub/DataScience/wk_06/tex/Lab_5_JIC.tex" "Lab_5_JIC.pdf" "Lab_5_JIC" 1741141934.53141 0
+["pdflatex"] 1741143962.43539 "c:/GitHub/DataScience/wk_06/tex/Lab_5_JIC.tex" "Lab_5_JIC.pdf" "Lab_5_JIC" 1741143963.65298 0
   "C:/GitHub/DataScience/wk_06/plots/BoxPlotLifeExpEU.png" 1741141713 18140 dd3331299ab5f72ea217d89d0d10131c ""
   "C:/GitHub/DataScience/wk_06/plots/GNI_PC.png" 1741141711 17217 9c1817e0ce71005dacdee59cb58e666d ""
   "C:/GitHub/DataScience/wk_06/plots/ScatterPlot.png" 1741141714 48457 81604f7c814eae3f1342101dd1bb98b0 ""
@@ -60,10 +60,10 @@
   "C:/Users/chowdhuryj/AppData/Local/Programs/MiKTeX/tex/latex/graphics/keyval.sty" 1730544106 2671 70891d50dac933918b827d326687c6e8 ""
   "C:/Users/chowdhuryj/AppData/Local/Programs/MiKTeX/tex/latex/graphics/trig.sty" 1730544106 4023 2c9f39712cf7b43d3eb93a8bbd5c8f67 ""
   "C:/Users/chowdhuryj/AppData/Local/Programs/MiKTeX/tex/latex/l3backend/l3backend-pdftex.def" 1716480499 29785 9f93ab201fe5dd053afcc6c1bcf7d266 ""
-  "Lab_5_JIC.aux" 1741141934 3130 91e9ceb5e35a8ea2b97c23302c522752 "pdflatex"
-  "Lab_5_JIC.tex" 1741141932 18174 814f9ea5f489e56399115cd2cc4efbd9 ""
-  "Lab_5_JIC.toc" 1741141934 1258 375023ff924a5c82d9fdf07c9f972d47 "pdflatex"
-  "c:/GitHub/DataScience/wk_06/tex/Lab_5_JIC.tex" 1741141932 18174 814f9ea5f489e56399115cd2cc4efbd9 ""
+  "Lab_5_JIC.aux" 1741143963 3381 7110b4f9860fdc23dfdba261e21b55a8 "pdflatex"
+  "Lab_5_JIC.tex" 1741143961 20559 ece5aad715f488a7d74b773362f86a7b ""
+  "Lab_5_JIC.toc" 1741143963 1427 c3243bdf718348928d47daafdd548ace "pdflatex"
+  "c:/GitHub/DataScience/wk_06/tex/Lab_5_JIC.tex" 1741143961 20559 ece5aad715f488a7d74b773362f86a7b ""
   (generated)
   "Lab_5_JIC.aux"
   "Lab_5_JIC.log"

@@ -15,3 +15,5 @@
 \contentsline {subsection}{\numberline {4.3}The Two Sample t-test}{6}{}%
 \contentsline {subsection}{\numberline {4.4}Pearson's Correlation}{6}{}%
 \contentsline {subsection}{\numberline {4.5}Further Reading}{6}{}%
+\contentsline {subsubsection}{\numberline {4.5.1}The Kruskal Wallis Test}{7}{}%
+\contentsline {subsubsection}{\numberline {4.5.2} $\chi ^2$ Test For Independence}{7}{}%
