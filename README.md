@@ -1,3 +1,7 @@
+
+<img src="assets/banner.png" alt="Banner" style="width:100%;"/>
+
+
 # Data Science Analysis
 Welcome to the MSOE Data Science Repository! This is a collection of my work ranging from Week 1 to Week 7. In this repository, I explore all data science 
 concepts ranging from data cleaning to performing statistical exploratory data analysis. Each directory covers a concept listed as follows:
