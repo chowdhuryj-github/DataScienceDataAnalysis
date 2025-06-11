@@ -31,3 +31,5 @@ learnt about the different statistical families, such the Bonferroni Correction,
 In [Week 7](wk_07/lab/Lab_6_JIC.pdf), I learnt about making data cards, which is a number of cards that provides a comprehensive summary of the data sets being used. I also did a lab
 that focuses on perfoming the process, which can be found in the `wk_07` directory.
 
+### Note
+The artworks used in this repository are by Alison Friend, check out her [artwork](https://www.instagram.com/mcfriendy/)! 

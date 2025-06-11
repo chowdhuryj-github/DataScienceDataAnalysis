@@ -3,6 +3,9 @@ jupyter nbconvert --to script Lab_6_JIC.ipynb
 jupyter nbconvert --ClearOutputPreprocessor.enabled=True --to notebook --inplace Lab_5_JIC.ipynb
 jupyter nbconvert --to html Lab_5_JIC.ipynb
 
+<img src="assets/banner.png" alt="Banner" style="width:100%;"/>
+
+
 
 1. Introduction
     - purpose of the lab
